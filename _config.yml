@@ -1,5 +1,5 @@
-title:            Site Title
-description:      Describe your website here.
+title:            Tech to Human
+description:      Musings on the role of a tech translator.
 logo:             site-logo.png
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
@@ -7,23 +7,14 @@ disqus_shortname:
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Lucy Chambers
   avatar:         bio-photo.jpg
-  email:          you@email.com
+  email:          lucy@fedia.net 
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        
-  facebook:       
-  github:         
-  stackexchange:  
-  linkedin:       
-  instagram:      
-  flickr:         
-  tumblr:         
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:    
-
+  twitter:        lucyfedia     
+  github:         lucychambers      
 # Analytics and webmaster tools stuff goes here
-google_analytics:   
+google_analytics: UA-36583563-2  
 google_verify:      
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
@@ -33,12 +24,12 @@ bing_verify:
 links:
   - title: About
     url: /about
-  - title: Articles
-    url: /articles
+  - title: Musings
+    url: /musings
   - title: Theme Setup
     url: /theme-setup
-  - title: Made Mistakes
-    url: http://mademistakes.com
+  - title: The Toolkit
+    url: /toolkit
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
