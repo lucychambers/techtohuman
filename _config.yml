@@ -26,8 +26,8 @@ links:
     url: /about
   - title: Musings
     url: /musings
-  - title: Theme Setup
-    url: /theme-setup
+  - title: Articles
+    url: /articles
   - title: Guides
     url: /guides
     external: true
