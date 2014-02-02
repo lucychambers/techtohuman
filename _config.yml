@@ -30,7 +30,6 @@ links:
     url: /articles
   - title: Guides
     url: /guides
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
