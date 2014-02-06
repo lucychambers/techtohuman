@@ -15,6 +15,7 @@
 <div id="main" role="main" itemprop="mainContentOfPage">
   <article class="hentry" itemscope itemtype="http://schema.org/BlogPosting">
     {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" itemprop="image">{% endif %}
+    {% if page.image.feature_url %}<img src="{{ page.image.feature_url }}" class="entry-feature-image" alt="{{ page.title }}" itemprop="image">{% endif %}
     <div class="entry-wrapper">
       <header class="entry-header">
         <span class="entry-tags">{% for tag in page.tags %}<a href="{{ site.url }}/tags.html#{{ tag | cgi_encode }}" title="Pages tagged {{ tag }}" rel="tag">{{ tag }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</span>
