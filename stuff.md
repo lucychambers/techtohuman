@@ -3,8 +3,8 @@ layout: page
 permalink: /stuff/index.html
 title: Stuff
 tags: [Tech translation, Tech translator, Technology, Jargon, Rants]
-image:
-  
+image: 
+  feature_url: http://techtohuman.s3.amazonaws.com/images/milena_keyboard.jpg
 ---
 
 This page lists some of the best "stuff" I've found from around the web to explain tech to non-techies. My favourite reads, analogies and little giggles from around the web. 
