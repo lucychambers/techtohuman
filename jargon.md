@@ -26,5 +26,6 @@ The following words crop up again and again in my work, there's a particular bia
 * [API]
 * [Bacon filtering](http://www.csmonitor.com/Innovation/Tech/2011/0613/How-to-manage-in-box-bacon) - filtering out those annoying but necessary emails that aren't quite personal emails, but aren't quite spam, but things like notifications from your bank, phone-bills etc. 
 * [Big Data]
+* [Free]
 * [Hacker]
-
+* [Open]
