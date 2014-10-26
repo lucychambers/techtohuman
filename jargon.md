@@ -3,7 +3,8 @@ layout: page
 permalink: /jargon/index.html
 title: Jargon busting
 tags: [Tech translation, Tech translator, Technology, Jargon, Rants]
-image: http://techtohuman.s3.amazonaws.com/images/milena_keyboard.jpg
+image:
+  feature_url: http://techtohuman.s3.amazonaws.com/images/milena_keyboard.jpg
 ---
 
 *Disclaimer - there are definitely more scientific definitions of many of the items on this list, but technical accuracy doesn't always help us to understand things, does it?.*
