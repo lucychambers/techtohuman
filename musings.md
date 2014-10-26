@@ -8,3 +8,7 @@ image:
   
 ---
 
+Musings are learning-out-loud, version controlled thoughts on particular topics particularly on how to make technology more accessible to a variety of audiences. 
+
+Why version-controlled? I hear you ask, well... 
+
