@@ -17,7 +17,7 @@ It's pretty dangerous territory to be in - particularly for the civic tech and o
 
 As a reaction to this, I had been asked to run the exercise of coming up with a typology of data a couple of times - first at the [Ethics of Data in Civil Society](http://pacscenter.stanford.edu/content/ethics-data-conference) in Stanford, where I got my dress rehearsal, and secondly recently at a kick off event for the Civicus [DataShift](http://civicus.org/thedatashift/). The context was slightly different each time, but I think I have finally found a way to frame the activity such that it makes it accessible to a broad spectrum of people -while still capturing numerous different ways that we could categorise data to build a typology. Ultimately - any dataset will ultimately fit into multiple categories - depending on what you are interested in. 
 
-![The Outputs](http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg)
+![The Outputs](http://techtohuman.s3.amazonaws.com/images/IMG_3544.JPG)
 
 ### Required materials 
 
