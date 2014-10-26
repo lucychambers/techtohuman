@@ -12,3 +12,4 @@ Musings are learning-out-loud, version controlled thoughts on particular topics 
 
 Why version-controlled? I hear you ask, well... 
 
+![Version-Controlled-Thinking](http://techtohuman.s3.amazonaws.com/vct.png)
