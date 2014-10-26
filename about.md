@@ -16,9 +16,7 @@ image:
 
 Tech Translation is my hobby, and this is my playground. 
 
-In [Jargon Buster](http://techtohuman.com/jargon/) I collect and curate the best examples, analogies and anecdotes I have found to help build language bridges between "techies" and "non-techies".
-
-[Musings](http://techtohuman.com/musings/) is a scratchpad: Where I can't find examples, I am inclined to make up definitions and explanations myself. There's a lot of blossoming thoughts in there. 
+[Musings](http://techtohuman.com/musings/) is a scratchpad: Where I can't find examples, I am inclined to make up definitions and explanations myself. There's a lot of blossoming thoughts in there. As you will see from introduction, these are less like blog posts, and more explicitly version-controlled, learning-out-loud pieces: I would never publish anything if I waited for it all to be perfect. 
 
 *And no, the title is not a reference to me thinking "techies" are somehow not human.*
 
