@@ -17,22 +17,19 @@ The gestures are elegantly modelled below by yours truly, and yes, that is my kn
 
 ## Gesture 1: Jargon Goggles 
 
-VIDEO COMING SOON
+<iframe src="//player.vimeo.com/video/110457727" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/110457727">Jargon Goggles</a> from <a href="http://vimeo.com/user33879024">Lucy Chambers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Gesture 2: Speedbumps 
 
-VIDEO COMING SOON
+<iframe src="//player.vimeo.com/video/110457974" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/110457974">Speedbumps</a> from <a href="http://vimeo.com/user33879024">Lucy Chambers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Gesture 3: Crank up the Volume 
 
-VIDEO COMING SOON
+<iframe src="//player.vimeo.com/video/110458223" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/110458223">Crank up the volume</a> from <a href="http://vimeo.com/user33879024">Lucy Chambers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Gesture 4: The Moose of Silence 
 
-VIDEO COMING SOON
-
-
-[Insert image: Jargon Goggles, Speedbumps, Crank up the Volume, Moose silence] 
+<iframe src="//player.vimeo.com/video/110458492" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/110458492">Moose of Silence</a> from <a href="http://vimeo.com/user33879024">Lucy Chambers</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 ## Tips 
 
