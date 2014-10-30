@@ -11,10 +11,11 @@ This page lists some of the best "stuff" I've found from around the web to expla
 
 # Regular reads 
 
+* [Aspiration Tech Blog](https://aspirationtech.org/blog) - a font of wisdom on facilitation, understanding the inner workings of innovative non-profits and running great events. 
 * [Cautiously Optimistic](http://davidsasaki.name/) - the personal blog of David Sasaki, who writes about many things, but particularly the social implications of technology and new media. 
 * [Datatherapy](http://datatherapy.wordpress.com/) - creative data presentation tips for non-data people, by @rahulbot
 * [Fabblog by Fabriders](http://www.fabriders.net/category/fabblog/) - methods, madness and magic for grass-roots capacity building
-* [Text on Techs](http://textontechs.com/) - the musings of my lovely colleague Heather Leson 'tech bridge' & crisis coordinator
+* [Text on Techs](http://textontechs.com/) - the musings of the lovely Heather Leson 'tech bridge' & crisis coordinator
 * [XKCD](http://xkcd.com/) - essential to understanding the world in which I work. 
 
 # On the reading list
