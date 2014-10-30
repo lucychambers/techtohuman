@@ -55,7 +55,7 @@ DELIBERATELY LONG LUNCHBREAK
 BREAK 
 
 6. Dreaming big. Go round: Finish the sentence "We should..." - aim is to add new ideas into the mix which were not captured in the first iteration of the strategy. 
-7. My plan was to do a [SWOT analysis](http://diytoolkit.org/tools/swot-analysis-2/) - DIY Toolkit: but we were tight on time. Instead, we did half a SWOT. The SO part (Strengths and Opportunities), figuring that the weaknesses, we coudl surface in the retrospectives.  
+7. My plan was to do a [SWOT analysis](http://diytoolkit.org/tools/swot-analysis-2/) - DIY Toolkit: but we were tight on time. Instead, we did half a SWOT. The SO part (Strengths and Opportunities), figuring that the weaknesses we could surface in the retrospectives.  
 
 ## Day 2
 
