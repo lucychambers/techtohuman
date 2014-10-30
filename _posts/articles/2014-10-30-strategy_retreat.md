@@ -59,11 +59,19 @@ BREAK
 
 ## Day 2
 
+[Coming Soon]
+
 ## Day 3
+
+[Coming Soon]
 
 ## Day 4
 
+[Coming Soon]
+
 ## Day 5
+
+[Coming Soon]
 
 
 # Lessons learned 
