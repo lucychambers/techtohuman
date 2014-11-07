@@ -16,8 +16,7 @@ image:
 
 Tech Translation is my hobby, and this is my playground. 
 
-[Musings](http://techtohuman.com/musings/) is a scratchpad: ways in which I have experiemented to make sense of technical topics myself and to explain them to other people. Hence, it will include everything from facilitation techniques to methods of explaining things that I have found particularly useful. Explicitly non-perfect: These are intended less like blog posts and more as version-controlled, learning-out-loud pieces which I update as my thinking changes. <small> I would never publish anything if I waited for it all to be perfect. </small>
-
+[Musings](http://techtohuman.com/musings/) is a scratchpad: experiments to make sense of technical topics myself and to explain them to other people. It will includes everything from facilitation techniques to actual explanations I have found useful myself either as a data trainer or as someone making the gradual transition from clueless to clue-ed in about technology. Explicitly non-perfect: these musings are intended less like blog posts and more as version-controlled, learning-out-loud pieces which I update as my thinking changes. 
 
 
 
