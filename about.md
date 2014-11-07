@@ -16,9 +16,8 @@ image:
 
 Tech Translation is my hobby, and this is my playground. 
 
-[Musings](http://techtohuman.com/musings/) is a scratchpad: Where I can't find examples, I am inclined to make up definitions and explanations myself. There's a lot of blossoming thoughts in there. As you will see from introduction, these are less like blog posts, and more explicitly version-controlled, learning-out-loud pieces: I would never publish anything if I waited for it all to be perfect. 
+[Musings](http://techtohuman.com/musings/) is a scratchpad: ways in which I have experiemented to make sense of technical topics myself and to explain them to other people. Hence, it will include everything from facilitation techniques to methods of explaining things that I have found particularly useful. Explicitly non-perfect: These are intended less like blog posts and more as version-controlled, learning-out-loud pieces which I update as my thinking changes. <small> I would never publish anything if I waited for it all to be perfect. </small>
 
-*And no, the title is not a reference to me thinking "techies" are somehow not human.*
 
 
 
