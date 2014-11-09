@@ -11,7 +11,7 @@ This post contains the activities for Day 1 of the strategy retreat. For more in
 
 ## Day 1 
 
-1. [Moshpit! Agenda Hacking](http://facilitation.aspirationtech.org/index.php?title=Agenda:Hacking) - Courtesy of Aspiration Tech
+1. [Moshpit! Agenda Hacking](http://facilitation.aspirationtech.org/index.php?title=Agenda:Hacking) - Courtesy of Aspiration Tech.
 2. [Stakeholder Mapping & Power Analysis](http://www.fabriders.net/pyramid1/) - Fabriders classic. I went one step further and made the team make scarecrows of key stakeholders for us to interview about how they felt about certain activities to keep them at the forefront of everyone's mind. The scarecrows were a bit intimidating - so think this activity might need a bit more work! (See below)
 
 ![Scarecrow](http://techtohuman.s3.amazonaws.com/images/DSCF3646.JPG)
@@ -34,7 +34,7 @@ DELIBERATELY LONG LUNCHBREAK
 
 <ol start="5">
 
-<li>Strategy user stories [TODO LINK] - We were putting a lot of energy into the strategy, so I wanted people to buy into it - and make sure it was a document that suited their needs so that they would use it. This was a quick brainstorm on a list of requirements from the strategy - with the team as the user base. </li>
+<li>  <a href="http://techtohuman.com/good_strategy/">Strategy user stories</a>  - We were putting a lot of energy into the strategy, so I wanted people to buy into it - and make sure it was a document that suited their needs so that they would use it. This was a quick brainstorm on a list of requirements from the strategy - with our own team as the user base. </li>
 </ol>
 
 * * *
