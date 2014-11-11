@@ -24,8 +24,10 @@ BREAK
 
 <ol start="3">
   <li>Temperature check - mini retrospective. Asking people "Looking back over the last year: What were moments that made you proudest / happiest?" - this was a quick go round to warm people into the next session.</li>
-  <li>Strategy and scissors session [TODO LINK]</li>
+  <li><a href="http://techtohuman.com/strategy_scissors/">Strategy and scissors session</a></li>
 </ol>
+
+
 
 * * *
 DELIBERATELY LONG LUNCHBREAK 
