@@ -13,6 +13,8 @@ I'm sure it is a common phenomenon: a strategy gets written and no-one in the te
 
 However, the failure mode for strategies that this post seeks to abolish is: *Strategy document does not directly address the questions of the team*. Maybe you, as the team manager, get something useful from it but it can be hard to get the team to identify with the strategy, or see why they should ever use it if you don't think very hard at the outset what each of them would want to know.  
 
+Our problem was that a lot of the templates were very cumbersome - too cumbersome for our size of team to digest and implement. We needed a template which was lightweight and would enable us to make decisions based on what the team had agreed were priorities. 
+
 My philosophy is that a strategy should be a useful document for the whole team, not just the team lead. This means there probably is no such thing a one-size-fits-all strategy template. 
 
 In this post, I have shared our list of ingredients for both a strategy and an implementation plan as the two are closely related. Hopefully they are useful to others, and I would love to hear if there is anything you think we have missed! 
