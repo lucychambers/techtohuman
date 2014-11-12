@@ -12,7 +12,7 @@ This post contains the activities for Day 1 of the strategy retreat. For more in
 ## Day 1 
 
 1. [Moshpit! Agenda Hacking](http://facilitation.aspirationtech.org/index.php?title=Agenda:Hacking) - Courtesy of Aspiration Tech.
-2. [Stakeholder Mapping & Power Analysis](http://www.fabriders.net/pyramid1/) - Fabriders classic. I went one step further and made the team make scarecrows of key stakeholders for us to interview about how they felt about certain activities to keep them at the forefront of everyone's mind. The scarecrows were a bit intimidating - so think this activity might need a bit more work! (See below)
+2. [Stakeholder Mapping & Power Analysis](https://www.fabriders.net/spectrogram-stakeholder-map/) - Fabriders classic. I went one step further and made the team make scarecrows of key stakeholders for us to interview about how they felt about certain activities to keep them at the forefront of everyone's mind. The scarecrows were a bit intimidating - so think this activity might need a bit more work! (See below)
 
 ![Scarecrow](http://techtohuman.s3.amazonaws.com/images/DSCF3646.JPG)
 <small> Scarecrow: Yes, it is true! Southpark characters are major stakeholders in School of Data. </small> 
