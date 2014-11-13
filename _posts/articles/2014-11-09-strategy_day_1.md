@@ -7,7 +7,7 @@ image:
   feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---
 
-This post contains the activities for Day 1 of the strategy retreat. For more information and the links to the activities from other days, please see the [strategy retreat post](http://techtohuman.com/strategy_retreat/). 
+<em>This post contains the activities for Day 1 of the strategy retreat. For more information and the links to the activities from other days, please see the [strategy retreat post](http://techtohuman.com/strategy_retreat/).</em> 
 
 ## Day 1 
 
@@ -49,3 +49,13 @@ BREAK
 <li> Dreaming big. Go round: Finish the sentence "We should..." - aim is to add new ideas into the mix which were not captured in the first iteration of the strategy. </li>
 <li> My plan was to do a  <a href="http://diytoolkit.org/tools/swot-analysis-2/">SWOT analysis (Where SWOT stands for Strengths, Weaknesses, Opportunities, Threats.)</a> - DIY Toolkit: but we were tight on time. Instead, we did half a SWOT. The SO part (Strengths and Opportunities), figuring that the weaknesses we could surface in the retrospectives. </li>
 </ol> 
+
+* * *
+WRAPUP 
+
+* * *
+
+<ol start="8">
+
+<li>'Closing circle' to produce a short summary of each day so that we could share it with the community afterwards. [Here's what resulted](http://schoolofdata.org/2014/11/05/school-of-data-retreat-roundup/)! </li>
+</ol>
