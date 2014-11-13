@@ -57,5 +57,5 @@ WRAPUP
 
 <ol start="8">
 
-<li>'Closing circle' to produce a short summary of each day so that we could share it with the community afterwards. [Here's what resulted](http://schoolofdata.org/2014/11/05/school-of-data-retreat-roundup/)! </li>
+<li>'Closing circle' to produce a short summary of each day so that we could share it with the community afterwards. (<a href="http://schoolofdata.org/2014/11/05/school-of-data-retreat-roundup/">The results</a>).  </li>
 </ol>
