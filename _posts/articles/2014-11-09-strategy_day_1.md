@@ -12,7 +12,7 @@ This post contains the activities for Day 1 of the strategy retreat. For more in
 ## Day 1 
 
 1. [Moshpit! Agenda Hacking](http://facilitation.aspirationtech.org/index.php?title=Agenda:Hacking) - Courtesy of Aspiration Tech.
-2. [Stakeholder Mapping & Power Analysis](https://www.fabriders.net/spectrogram-stakeholder-map/) - Fabriders classic. I went one step further and made the team make scarecrows of key stakeholders for us to interview about how they felt about certain activities to keep them at the forefront of everyone's mind. The scarecrows were a bit intimidating - so think this activity might need a bit more work! (See below)
+2. [Stakeholder Mapping & Power Analysis](https://www.fabriders.net/spectrogram-stakeholder-map/) - Fabriders classic. I wanted to make sure that the team kept thinking about the users all the way through the week, so I went one step further and made the team make scarecrows of key stakeholders, who would hang out with us for the week. The scarecrows were a bit intimidating - so think this activity might need a bit more work! (See below)
 
 ![Scarecrow](http://techtohuman.s3.amazonaws.com/images/DSCF3646.JPG)
 <small> Scarecrow: Yes, it is true! Southpark characters are major stakeholders in School of Data. </small> 
@@ -24,7 +24,7 @@ BREAK
 
 <ol start="3">
   <li>Temperature check - mini retrospective. Asking people "Looking back over the last year: What were moments that made you proudest / happiest?" - this was a quick go round to warm people into the next session.</li>
-  <li><a href="http://techtohuman.com/strategy_scissors/">Strategy and scissors session</a></li>
+  <li><a href="http://techtohuman.com/strategy_scissors/">Strategy and scissors session</a></li> - an invention of yours truly. 
 </ol>
 
 
