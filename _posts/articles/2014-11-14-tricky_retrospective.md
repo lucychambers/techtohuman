@@ -7,7 +7,7 @@ image:
   feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---
 
-In order to work as a well-oiled team, you occaisionally need to get things off your chest. There will always be gripes and things that frustrate you about the way that things are set up that stop you getting on with your work as well as you can. Team get-togethers are great as an opportunity to surface and tackle things like this. However, the mechanisms by which the problems are surfaced need to be carefully moderated, to make sure they are solution-oriented and not just rants.
+In order to work as a well-functioning team, you occaisionally need to get things off your chest. There will always be gripes and things that frustrate you about the way that things are set up that stop you getting on with your work as well as you can. Team get-togethers are great as an opportunity to surface and tackle things like this. However, the mechanisms by which the problems are surfaced need to be carefully moderated, to make sure they are solution-oriented and not just rants.
 
 Luckily - [Dirk Slater](http://www.fabriders.net/) came up with a fantastic format for us to both allow people to surface things they were worried about and give them agency to think about how they could help to be part of the change they want to see. I would recommend this incredibly flexible format to *anyone* and will use it again and again!
 
