@@ -24,7 +24,7 @@ BREAK
 
 <ol start="3">
 
-<li> "Organisational Retrospective" - devised by Dirk Slater. This was the single session I was most worried about running, but I think one of the most productive sessions of the entire week. The reason I was worried, was that I knew there were many things my team wanted to surface that frustrated them about the way we are currently set up and not all of them were in my power to change; I was worried about this dampening the energy. Dirk however, came up with a brilliant solution to tackle it. </li>
+<li> <a href="http://techtohuman.com/tricky_retrospective/">"Tricky Retrospective"</a> - devised by Dirk Slater. This was the single session I was most worried about running, but I think one of the most productive sessions of the entire week. The reason I was worried, was that I knew there were many things my team wanted to surface that frustrated them about the way we are currently set up and not all of them were in my power to change; I was worried about this dampening the energy. Dirk however, came up with a brilliant solution to tackle it. </li>
 
 </ol> 
 
