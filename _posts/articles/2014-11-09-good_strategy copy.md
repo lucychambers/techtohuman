@@ -72,6 +72,8 @@ Below are what we felt to be necessary ingredients for the School of Data strate
 * *Geographic priorities* - are there any considerations on where we should and should not work?  
 * *Resourcing needs & fundraising plan* - how much resource do we need to acheive the scope of our ambition?
 
+#### Structure
+
 Note: Our strategy is currently itemised. For each point, we have a headline, objective, methods and success criteria. Here's an example: 
 
 * HEADLINE:	 Improve teaching methods 
