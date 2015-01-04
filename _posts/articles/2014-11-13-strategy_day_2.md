@@ -36,7 +36,7 @@ DELIBERATELY LONG LUNCHBREAK
 * * *
 <ol start="4">
 
-<li> Looking forward - Part 1: Partners and collaborators - A dating game. As an early stage project, we did not have a good typology of different types of partners. We had taken them on new partners as and when we felt appropriate, rather than having a particular partner strategy. It was time to sit down and do two things: 1) Do a dating game: Work out which characteristics would make a partnership not work, work out which ones made us like a partnership and which ones made us want to 'commit for life' - or a long time - so that we could carefully pick which ones we should go with in the future. 2) Create a typology of partners - so that we could meaningfully distinguish between partners in the future.   </li> 
+<li> Looking forward - Part 1: Partners and collaborators - A dating game. As an early stage project, we did not have a good typology of different types of partners. We had taken them on new partners as and when we felt appropriate, rather than having a particular partner strategy. It was time to sit down and do two things: 1) Do a dating game: Work out which characteristics would make a partnership not work, work out which ones made us like a partnership and which ones made us want to 'commit for life' - or a long time - so that we could carefully pick which ones we should go with in the future. 2) Create a typology of partners - so that we could meaningfully distinguish between partners in the future.   <br><strong>Output 11:</strong> <em> A typology of partners which can be communicated publicly! </em></li> 
 
 </ol>
 * * *
