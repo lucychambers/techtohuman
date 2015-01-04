@@ -26,7 +26,7 @@ BREAK
 
 <ol start="3">
   <li>Mini retrospective on last year. Asking people "Looking back over the last year: What were moments that made you proudest / happiest?" - this was a quick go round to warm people into the next session. <br><strong>Output 3:</strong> <em>A list of known weaknesses which need to be worked on. You can work out *how* to fix them later.</em> </li>
-  <li><a href="http://techtohuman.com/strategy_scissors/">Strategy and scissors session</a> - an invention of yours truly. <strong>Output 4a:</strong> <em>A list of parts of your strategy which you know you need to discard.</em> <br><strong>Output 4b:</strong> <em>A list of parts of your strategy which you know you need to revisit.</em> </li>  
+  <li><a href="http://techtohuman.com/strategy_scissors/">Strategy and scissors session</a> - an invention of yours truly. <strong>Output 4a:</strong> <em>A list of objectives in your strategy which you know you need to discard.</em> <br><strong>Output 4b:</strong> <em>A list of objectives in your strategy which you know you need to revisit.</em> </li>  
 </ol>
 
 
