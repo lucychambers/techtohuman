@@ -9,7 +9,7 @@ image:
 
 # Writing user stories for your strategy 
 
-I'm sure it is a common phenomenon: a strategy gets written and no-one in the team ever looks at it again. There are many possible reasons why this might happen. For one, the plan coule be totally unrealistic (you'll find out in time whether that is the case for your plan). 
+I'm sure it is a common phenomenon: a strategy gets written and no-one in the team ever looks at it again. There are many possible reasons why this might happen. For one, the plan could be totally unrealistic (you'll find out in time whether that is the case for your plan). 
 
 However, the failure mode for strategies that this post seeks to abolish is: *Strategy document does not directly address the questions of the team*. Maybe you, as the team manager, get something useful from it but it can be hard to get the team to identify with the strategy, or see why they should ever use it if you don't think very hard at the outset what each of them would want to know.  
 
@@ -57,7 +57,7 @@ and
 A strategy should: 
 
 * *Have a clear owner* (myself in this case) - who maintains the strategy and checks the team is sticking by it. The owner also makes changes when required - but any reasons for changing should be made very clear to the team. 
-* *Be version controlled* - for me, it is important to be able to compare past versions of a strategy to thelp the team and myself remember what we did in the past and how our thinking has evolved.
+* *Be version controlled* - for me, it is important to be able to compare past versions of a strategy to help the team and myself remember what we did in the past and how our thinking has evolved.
 * *Specify times and conditions for review* - it is important that the team knows how long the plan will be relevant for, and how they can act to change it if necessary. This means both setting a time for review in advance and also specifying a set of conditions which may also allow people to convene a re-thinking session.  
 
 #### Content requirements 
