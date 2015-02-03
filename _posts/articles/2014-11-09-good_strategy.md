@@ -72,16 +72,20 @@ Below are what we felt to be necessary ingredients for the School of Data strate
 * *Geographic priorities* - are there any considerations on where we should and should not work?  
 * *Resourcing needs & fundraising plan* - how much resource do we need to acheive the scope of our ambition?
 
-Note: Our strategy is currently itemised. For each point, we have a goal, objective, methods and success criteria. Here's an example: 
+<a name="structure">
 
-* GOAL:	 Improve and expand teaching methods 
-* OBJECTIVE: Enhance teaching methods and capture lessons learned 
-* METHODS:
-  * Create annual Summer School for fellows to learn facilitation skills in a more structured environment, and network with other data practitioners;
-  * (Add more here...) 
-* SUCCESS CRITERIA
-  * Fellows attend summer camp and use some of the teaching methods in their own training. Fellows receive excellent testimonials about their teaching. 
-  * (Add more here...) 
+#### Structuring the strategy
+
+The School of Data strategy is currently itemised. For each point, we have a goal (sometimes called a headline), rationale, methods and success criteria. Here's an example: 
+
+* *GOAL:*	 Improve and expand teaching methods 
+  * *RATIONALE:* School of Data training has gained a reputation for effective capacity-building through hands-on, participatory methodologies. Formalising, documenting and teaching the teaching methodologies as well as the actual skills would enable us to empower more data trainers. As fellows are currently in training to build their teaching skills, it would be logical to prioritise them.   
+  * *METHODS:*
+    * Create annual Summer School for fellows to learn facilitation skills in a more structured environment, and network with other data practitioners;
+    * (Add more here...) 
+  * *SUCCESS CRITERIA*
+    * Fellows attend summer camp and use some of the teaching methods in their own training. Fellows receive excellent testimonials about their teaching. 
+    * (Add more here...) 
 
 
 ### Implementation plan
