@@ -92,7 +92,7 @@ As above - here are the elements we found important to make sure are covered in 
 
 All the meta points from the strategy also apply for the implementation plan. However, the validity of the plan and the review cycles are likely to be shorter and the breakdown of tasks is likely to be much more granular. 
 
-**One further note on roles:** I, as the team lead, am the point for the strategy. Milena, is responsible for the implementation plan. We both obviously back each other up, but having this split of responsibility is a sanity-check - if one thing sounds great in the abstract strategy but we can't translate into the implementation plan, we should reconsider the strategy. 
+**One further note on roles:** I, as the team lead, am the point for the strategy. Milena is responsible for the implementation plan. We both obviously back each other up, but having this split of responsibility is a sanity-check - if one thing sounds great in the abstract strategy but we can't translate into the implementation plan, we should reconsider the strategy. 
 
 #### Content requirements 
 
@@ -108,7 +108,7 @@ Please do feel free to get in touch on lucy [at] fedia [dot] net if you have any
 
 # Further reading: 
 
-* [Forbes article](http://www.forbes.com/sites/davelavinsky/2013/10/18/strategic-plan-template-what-to-include/) on what to include in a strategic planning template. I didn't follow this personally - as I felt like the strategy should be realtively succinct. I felt things like SWOT analysis should inform a strategy, but the strategy should be to the point.
+* [Forbes article](http://www.forbes.com/sites/davelavinsky/2013/10/18/strategic-plan-template-what-to-include/) on what to include in a strategic planning template. I didn't follow this personally - as I felt like the strategy should be relatively succinct. I felt things like SWOT analysis should inform a strategy, but the strategy should be to the point.
 * [Management Help Post](http://managementhelp.org/freenonprofittraining/strategic-plan-framework.htm) - on a similar topic to the above. Lots of good stuff in there, but again, I felt a bit heavyweight for our requirements! 
 
 
