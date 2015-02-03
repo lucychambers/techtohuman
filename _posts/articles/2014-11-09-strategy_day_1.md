@@ -13,8 +13,8 @@ image:
 
 Before you start: Opening circle. To get people warmed up one person was on point to ask the team a though provoking question. The more random, the better. 
 
-1. [Moshpit! Agenda Hacking](http://facilitation.aspirationtech.org/index.php?title=Agenda:Hacking) - Courtesy of Aspiration Tech. <br><strong>Output 1:</strong> <em>At the end of the session - you will have a list of all of the topics which participants want covering during the retreat </em> 
-2. [Stakeholder Mapping & Power Analysis](https://www.fabriders.net/spectrogram-stakeholder-map/) - a tweak on a Fabriders classic. This exercise was originally designed for campaigns rather than project planning. My tweak was to substitute power mapping for impact mapping, asking people who they thought we should work with on the basis of how much impact they hypothesised we could have (I made them justify it). <br>**Output 2:** *Brainstormed list of possible collaborators for the project, which you can further refine later. **Bonus output:** I wanted to make sure that our users stayed at the forefront of people's minds, so I made them make scarecrows of the people who they thought were most important to work with, who would oversee our plans for the rest of the week! It was a bit creepy, so I might not do it again, but it was fun :).* 
+1. [Moshpit! Agenda Hacking](http://facilitation.aspirationtech.org/index.php?title=Agenda:Hacking) - Courtesy of Aspiration Tech. <a name="output1"></a><br><strong>Output 1:</strong> <em>At the end of the session - you will have a list of all of the topics which participants want covering during the retreat </em> 
+2. [Stakeholder Mapping & Power Analysis](https://www.fabriders.net/spectrogram-stakeholder-map/) - a tweak on a Fabriders classic. This exercise was originally designed for campaigns rather than project planning. My tweak was to substitute power mapping for impact mapping, asking people who they thought we should work with on the basis of how much impact they hypothesised we could have (I made them justify it). <a name="output2"></a><br>**Output 2:** *Brainstormed list of possible collaborators for the project, which you can further refine later. **Bonus output:** I wanted to make sure that our users stayed at the forefront of people's minds, so I made them make scarecrows of the people who they thought were most important to work with, who would oversee our plans for the rest of the week! It was a bit creepy, so I might not do it again, but it was fun :).* 
 
 ![Scarecrow](http://techtohuman.s3.amazonaws.com/images/DSCF3646.JPG)
 <small> Scarecrow: Yes, it is true! Southpark characters are major stakeholders in School of Data. </small> 
@@ -25,8 +25,8 @@ BREAK
 * * *
 
 <ol start="3">
-  <li>Mini retrospective on last year. Asking people "Looking back over the last year: What were moments that made you proudest / happiest?" - this was a quick go round to warm people into the next session. <br><strong>Output 3:</strong> <em>A list of known weaknesses which need to be worked on. You can work out *how* to fix them later.</em> </li>
-  <li><a href="http://techtohuman.com/strategy_scissors/">Strategy and scissors session</a> - an invention of yours truly. <strong>Output 4a:</strong> <em>A list of objectives in your strategy which you know you need to discard.</em> <br><strong>Output 4b:</strong> <em>A list of objectives in your strategy which you know you need to revisit.</em> </li>  
+  <li>Mini retrospective on last year. Asking people "Looking back over the last year: What were moments that made you proudest / happiest?" - this was a quick go round to warm people into the next session. <a name="output3"></a><br><strong>Output 3:</strong> <em>A list of known weaknesses which need to be worked on. You can work out *how* to fix them later.</em> </li>
+  <li><a href="http://techtohuman.com/strategy_scissors/">Strategy and scissors session</a> - an invention of yours truly. <a name="output4a"></a><strong>Output 4a:</strong> <em>A list of objectives in your strategy which you know you need to discard.</em> <a name="output4b"></a><br><strong>Output 4b:</strong> <em>A list of objectives in your strategy which you know you need to revisit.</em> </li>  
 </ol>
 
 
@@ -38,7 +38,7 @@ DELIBERATELY LONG LUNCHBREAK
 
 <ol start="5">
 
-<li>  <a href="http://techtohuman.com/good_strategy/">Strategy user stories</a>  - We were putting a lot of energy into the strategy, so I wanted people to buy into it and make sure it was a document that suited their needs so that they would use it. This was a quick brainstorm on a list of requirements from the strategy - with our own team as the user base. <br><strong>Output 5:</strong> <em>A joint understanding of what the strategy document will cover and who it will be for.</em> </li>
+<li>  <a href="http://techtohuman.com/good_strategy/">Strategy user stories</a>  - We were putting a lot of energy into the strategy, so I wanted people to buy into it and make sure it was a document that suited their needs so that they would use it. This was a quick brainstorm on a list of requirements from the strategy - with our own team as the user base. <a name="output5"></a><br><strong>Output 5:</strong> <em>A joint understanding of what the strategy document will cover and who it will be for.</em> </li>
 </ol>
 
 * * *
@@ -48,8 +48,8 @@ BREAK
 
 <ol start="6">
 
-<li> Dreaming big. Go round: Finish the sentence "We should..." - aim is to add new ideas into the mix which were not captured in the first iteration of the strategy. <br><strong>Output 6:</strong> <em> A list of new suggested topics which might want to be included in future versions of the strategy. This is a good complement to outputs <strong> 4a and 4b </strong> where you were eliminating possibilities. </em></li>
-<li><a href="http://diytoolkit.org/tools/swot-analysis-2/">SWOT analysis (Where SWOT stands for Strengths, Weaknesses, Opportunities, Threats.)</a> - DIY Toolkit.  We were tight on time and had already covered some of the weaknesses in strategy & scissors. That meant, we just focussed on the SO part (Strengths and Opportunities). <br><strong>Output 7:</strong> <em> A list of the opportunities and strengths you should be playing to.</em> </li>
+<li> Dreaming big. Go round: Finish the sentence "We should..." - aim is to add new ideas into the mix which were not captured in the first iteration of the strategy. <a name="output6"></a><br><strong>Output 6:</strong> <em> A list of new suggested topics which might want to be included in future versions of the strategy. This is a good complement to outputs <strong> 4a and 4b </strong> where you were eliminating possibilities. </em></li>
+<li><a href="http://diytoolkit.org/tools/swot-analysis-2/">SWOT analysis (Where SWOT stands for Strengths, Weaknesses, Opportunities, Threats.)</a> - DIY Toolkit.  We were tight on time and had already covered some of the weaknesses in strategy & scissors. That meant, we just focussed on the SO part (Strengths and Opportunities). <a name="output7"></a><br><strong>Output 7:</strong> <em> A list of the opportunities and strengths you should be playing to.</em> </li>
 </ol> 
 
 * * *
