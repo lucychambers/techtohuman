@@ -30,7 +30,7 @@ Energy and patience is often highest at the beginning of events like this, when 
 * *Day 1: Dreaming big & lookback over the past year* - [(Activities List)](http://techtohuman.com//strategy_day_1)
 * *Day 2: Goals & resources* - what do we need to acheive what we set out to do? -[(Activities List)](http://techtohuman.com//strategy_day_2)
 * *Day 3: Forward looking* - revising the strategy for the year ahead  -  [(Activities List)](http://techtohuman.com//strategy_day_3)
-* *Day 4: Personal development day* - chance for 1:1 chats with line managers and HR team
+* *Day 4: Personal development day* - chance for 1:1 chats with line managers and HR team [(Activities List)](http://techtohuman.com/strategy_day_4/)
 * *Day 5: Reality and quality check day* - is what we planned realistic?  How do we improve the quality of our plans? 
 
 I will not unpack all of the activities, as some of them will not be useful to anyone else, but below I will link the best of them and list my lessons learned. 
