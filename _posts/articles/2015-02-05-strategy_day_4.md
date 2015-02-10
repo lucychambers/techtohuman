@@ -22,7 +22,7 @@ The personal development day appears in the arc of the event after we have spent
 
 ## Day 4
 
-Before you start - Opening Circle. <a href="http://techtohuman.com/strategy_day_1">See day 1</a>. 
+Before you start - <a href="http://facilitation.aspirationtech.org/index.php?title=Facilitation:Opening_Circle" target="_blank">Opening Circle</a>. <a href="http://techtohuman.com/strategy_day_1">See day 1</a>. 
 
 *Note that most of the day spent in small meetings between the team lead, HR team representative (if possible) and individual team members. Hence, it might be wise to suggest that people plan to have bi-lateral meetings or get on with other work while the individual sessions are on. For this reason, I have also not scheduled breaks this day - but do remember to take them when it fits with your flow!*
 

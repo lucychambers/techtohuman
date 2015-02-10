@@ -11,7 +11,7 @@ image:
 
 ## Day 2
 
-Before you start - Opening Circle. <a href="http://techtohuman.com/strategy_day_1">See day 1</a>. 
+Before you start - <a href="http://facilitation.aspirationtech.org/index.php?title=Facilitation:Opening_Circle" target="_blank">Opening Circle</a>. <a href="http://techtohuman.com/strategy_day_1">See day 1</a>. 
 
 1. Farmers' Market - [Aspiration Tech](https://aspirationtech.org/). The farmers' market is a mechanism to extract as much information from different people's heads as quickly as possible: brainstorming on multiple topics simultaneously, on speed. (Instructions: Coming soon - I'm hunting down a writeup of the methodology.) <a name="output8"></a><br><strong>Output 8:</strong> <em> Multiple lists of resources on any topic you require. We had lists of different types of resources which people needed to do their jobs better and resources which had been built by other organisations since we last had a planning meeting, which we should consider building on, or at least not duplicating. </em>
 

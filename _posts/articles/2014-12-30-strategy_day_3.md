@@ -11,7 +11,7 @@ image:
 
 ## Day 3
 
-Before you start - Opening Circle. <a href="http://techtohuman.com/strategy_day_1">See day 1</a>. 
+Before you start - <a href="http://facilitation.aspirationtech.org/index.php?title=Facilitation:Opening_Circle" target="_blank">Opening Circle</a>. <a href="http://techtohuman.com/strategy_day_1">See day 1</a>. 
 
 1. [Headlines & How tos](http://techtohuman.com/headlines_how_tos). This activity will likely take most of a morning. I suggest starting when people's brains are fresh and trying to complete as soon as possible. This is likely to generate a lot of debate and I suggest separating the debate with a break and then giving people the chance to discuss in a laid-back setting. <a name="output12"> <br>
 At the end of this activity, you will be left with <strong>output 12:</strong> a first draft of the suggested headlines for your strategy, rationales for each and with suggested aligned activities. 
