@@ -13,13 +13,37 @@ image:
 
 <em> <strong> Personal Opinion: </strong> As tech projects become more and more widespread at NGOs, and their databases ever larger, we should reflect on whether impact they are likely to achieve will always be positive.</em>
 
-<strong><em> This post tackles the question: "Can we provide templates to help people understand whether there are any potential negative impacts of their technology project?" </em> </strong>
+<strong><em> This post tackles the question: "Can we provide simple templates to help people understand whether there are any potential negative impacts of their technology project?" </em> </strong>
 
 ## Some confessions
 
 **Confession 1:** I'm a big [Theory of Change](http://www.theoryofchange.org/what-is-theory-of-change/) fan. I have a hypothesis for *nearly everything*. 
 
-**Confession 2:** I really like the [Theory of Change template](http://diytoolkit.org/tools/theory-of-change/) from the [DIY Toolkit]() and it has become a staple of mine for creating lightweight, easy to read theories of change for projects. 
+**Confession 2:** I really like the [Theory of Change template](http://diytoolkit.org/tools/theory-of-change/) from the [DIY Toolkit](http://diytoolkit.org) and it has become a staple of mine for creating lightweight, easy to read theories of change for projects. 
+
+<div class="well">
+<h2>Update: Reactions to Feedback on this post</h2>
+
+I got some great thoughts on this post. I wanted to clarify a couple of things specifically about the process for creating 'Utopian' theories of change which didn't come across in the original version. Basically, these are: 
+
+<ol> 
+<li> Creating a full theory of change is a much bigger piece of work than simply filling in a template. A theory of change should start from an organisational strategy and include all of the activities you are hoping to engage in. </li> 
+<li> At the same time, I have seen so many organisations be overwhelmed by having to produce a full theory of change straight off. Worst case scenario, this leads to them not producing one at all. The DIY toolkit template I consider an accessible compromise to getting started with theories of change. </li>
+</ol>
+
+I am mainly addressing point 2. in this post. Getting creative juices flowing, and hopefully, making theories of change seem a little less overwhelming. I am also hacking standard theory of change methodology for the antithesis of what it was originally intended for.  Both templates serve as an <em>absolute minimum</em> of questions one should ask oneself before starting, rather than a replacement for a deeper thought process.
+
+
+<h3> Going deeper into theories of change? Some useful resources: </h3>  
+
+<ul> 
+	<li> <a href="http://tech.transparency-initiative.org/fundamentals/the-tech-strategy/">Data Fundamentals - The Tech strategy.</a></li>
+</ul>
+
+As ever, thank you in particular to <a href="http://www.fabriders.net/">Dirk Slater</a> for his thoughts on the topic!
+
+
+</div>
 
 ## A flash of lightning: genius or smiting?  
 
@@ -114,20 +138,7 @@ Your website is featured in the Guardian (its only media reference), lots of tec
 	<li> Evidence of parents keeping children away from dangerous areas. Perceivable stigmatisation of particular areas as dangerous creates ghettos. </li> 
 </ol>
 
-<h2> Conclusions </h2> 
-
-<p> <em>Perhaps, if the original Theory of Change template had been used correctly, and it had been possible to correctly outline assumptions, we would not need to run the dystopian version. Half of the problem here was that the user had not been defined accurately enough and the assumption which was made was that the site would be of equal benefit to "all citizens" (shiver). Power mapping and empowerment were big topics at the sprint. </em></p> 
-
 </div>
-
-
-## Try it yourself 
-
-Need some examples? Here's a random selection to try: 
-
-* **[Wikileaks releasing the diplomatic cables](https://wikileaks.org/cablegate.html)**
-* **[An application to allow flight attendants to take videos of people who they believe might be being trafficked](http://airlineamb.org/2015/01/18/download-our-app/)**  
-* **[Schooloscope](http://berglondon.com/projects/schooloscope)**. (Hint: if you put something generic like 'all parents' in the users for the Utopian version, try being more specific with specific income or social mobility levels in the dystopian version). 
 
 ## Asking more questions before starting a project
 
@@ -159,13 +170,23 @@ You may (and probably will) decide that the probability of your dystopian realit
 
 Even in the example about crime statistics above, I believe a way could be found to successfully deliver on the initial problem statement. We could start by looking more closely into who exactly the users would be, what power they would have to act, how we would reach them and what would happen if they were not being reached. 
 
+Perhaps, in this example, if the original Theory of Change template had been used correctly, and it had been possible to correctly outline assumptions, we would not need to run the dystopian version. Half of the problem here was that the user had not been defined accurately enough and the assumption which was made was that the site would be of equal benefit to "all citizens" (shiver). Power mapping and empowerment were big topics at the sprint. 
+
 ### Keep swapping stories
 
 One of the best parts about the Responsible Data Forum was story exchange. Participants were given a safe space to share examples of types of ways in which projects had gone awry. 
 
 In that sense, the participants of the Responsible Data Forum are in a priveledged position. It is *always* easier to imagine worst case scenarios and tease out assumptions when you are armed with a wealth of stories and patterns for how things might go wrong. 
 
-Talking about these issues can be hard, but I hope that this community will find a mechanism of sharing these in a way that encourages more people to come forward and share their stories. I look forward to following the Responsible Data community closely for more action on this front in the future!  
+Talking about these issues can be hard, but I hope that this community will find a mechanism of sharing these in a way that encourages more people to come forward and share their stories. I look forward to following the Responsible Data community closely for more action on this front in the future! 
+
+## Try it yourself 
+
+Need some examples? Here's a random selection to try: 
+
+* **[Wikileaks releasing the diplomatic cables](https://wikileaks.org/cablegate.html)**
+* **[An application to allow flight attendants to take videos of people who they believe might be being trafficked](http://airlineamb.org/2015/01/18/download-our-app/)**  
+* **[Schooloscope](http://berglondon.com/projects/schooloscope)**. (Hint: if you put something generic like 'all parents' in the users for the Utopian version, try being more specific with specific income or social mobility levels in the dystopian version).  
 
 ## Feedback 
 
