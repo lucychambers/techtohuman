@@ -31,7 +31,7 @@ I got some great thoughts on this post. I wanted to clarify a couple of things s
 <li> At the same time, I have seen so many organisations be overwhelmed by having to produce a full theory of change straight off. Worst case scenario, this leads to them not producing one at all. The DIY toolkit template I consider an accessible compromise to getting started with theories of change. </li>
 </ol>
 
-I am mainly addressing point 2. in this post. Getting creative juices flowing, and hopefully, making theories of change seem a little less overwhelming. I am also hacking standard theory of change methodology for the antithesis of what it was originally intended for.  Both templates serve as an <em>absolute minimum</em> of questions one should ask oneself before starting, rather than a replacement for a deeper thought process.
+I am mainly addressing point 2. in this post. Getting creative juices flowing and hopefully making theories of change seem a little less overwhelming. The Dystopian theory of change is also a hack of the standard methodology, the antithesis of what it was originally intended for.  Both templates serve as an <em>absolute minimum</em> of questions one should ask oneself before starting, rather than a replacement for a deeper thought process.
 
 
 <h3> Going deeper into theories of change? Some useful resources: </h3>  
