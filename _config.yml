@@ -26,6 +26,9 @@ links:
     url: /musings
   - title: About
     url: /about
+  - title: Reading
+    url: /reading
+
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
