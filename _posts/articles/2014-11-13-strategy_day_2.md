@@ -2,7 +2,7 @@
 layout: post
 permalink: /strategy_day_2
 title: Strategy Retreat - Day 2 
-tags: [Method, Facilitation, Strategy]
+tags: [Facilitation, Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---

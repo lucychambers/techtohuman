@@ -2,7 +2,7 @@
 layout: post
 permalink: /team_interests_visualisation/
 title: Team Interests Visualisation 
-tags: [Method, Facilitation, Strategy]
+tags: [Facilitation, Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---

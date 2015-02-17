@@ -2,7 +2,7 @@
 layout: post
 permalink: /good_strategy
 title: What makes a good strategy? 
-tags: [Method, Facilitation, Strategy]
+tags: [Facilitation, Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---

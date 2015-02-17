@@ -2,7 +2,7 @@
 layout: post
 permalink: /headlines_how_tos
 title: Headlines & How tos 
-tags: [Method, Facilitation, Strategy]
+tags: [Facilitation, Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---

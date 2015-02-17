@@ -2,7 +2,7 @@
 layout: post
 permalink: /tricky_retrospective
 title: The Tricky Retrospective 
-tags: [Method, Facilitation, Strategy]
+tags: [Facilitation, Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---

@@ -2,7 +2,7 @@
 layout: post
 permalink: /defining_data
 title: Defining Data 
-tags: [Data 101, Method, Facilitation]
+tags: [Data 101, Facilitation]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---
