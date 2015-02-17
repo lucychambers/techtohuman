@@ -25,6 +25,8 @@ image:
 
 <div class="clearfix"></div>
 
+<a href="https://www.goodreads.com/review/list_rss/40304712?key=o5RAY6QpEHqhVyJx2do1vyEO6XElcv8KaLLl83F0qluTrJbe&shelf=tech-read">Get "tech-reads" RSS feed</a>
+
 <h2>Quotes</h2>
 
 <div style="border: 2px solid #EBE8D5; border-radius:10px; padding: 0px 7px 0px 7px;"><h3 style=""></h3><br/><div id="gr_quote_body"></div><script src="https://www.goodreads.com/quotes/widget/40304712-lucyfedia?v=2" type="text/javascript"></script><div style="text-align: right;"><a href="https://www.goodreads.com/quotes" style="color: #382110; text-decoration: none; font-size: 10px;">Goodreads Quotes</a></div></div>
@@ -34,3 +36,5 @@ image:
 
 <script src="https://www.google.com/jsapi"></script>
 <script src="/assets/js/feed2js.js" data-chan="n" data-src="https://www.instapaper.com/folder/2571725/rss/4291334/txOF4sDLXzp2u1z49ykURNYfprU"></script>
+
+<a href="https://www.instapaper.com/folder/2571725/rss/4291334/txOF4sDLXzp2u1z49ykURNYfprU">Get Articles RSS feed</a>
