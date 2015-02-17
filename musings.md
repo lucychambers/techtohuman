@@ -21,8 +21,7 @@ Why version-controlled? I hear you ask, well...
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>
-<div>
-<nav>
-<a href="/tags.html" class="btn" title="Search by topic">Browse by topic</a>
+
+<nav class="browse-button" role="navigation">
+<a href="/tags.html" class="btn" title="Browse by topic">Browse by topic</a>
 </nav>
-</div>
