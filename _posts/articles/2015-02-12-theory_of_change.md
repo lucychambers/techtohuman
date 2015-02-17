@@ -2,7 +2,7 @@
 layout: post
 permalink: /theory_of_change/
 title: Utopian and Dystopian Theories of Change - A Template 
-tags: [Responsible Data, Theory of Change]
+tags: [Strategy, Responsible Data, Theory of Change]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---
