@@ -2,7 +2,7 @@
 layout: post
 permalink: /jargon_busting
 title: Training the Trainers - Jargon Busting in "Ten Hundred Words"
-tags: [Jargon, Facilitation, Training Trainers]
+tags: [Data 101, Jargon, Facilitation]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---
