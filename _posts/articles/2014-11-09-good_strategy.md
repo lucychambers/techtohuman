@@ -1,13 +1,13 @@
 ---
 layout: post
 permalink: /good_strategy
-title: What makes a good strategy? 
+title: Writing User Stories for Your Strategy
 tags: [Facilitation, Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---
 
-# Writing user stories for your strategy 
+# What makes a good strategy document?
 
 I'm sure it is a common phenomenon: a strategy gets written and no-one in the team ever looks at it again. There are many possible reasons why this might happen. For one, the plan could be totally unrealistic (you'll find out in time whether that is the case for your plan). 
 
