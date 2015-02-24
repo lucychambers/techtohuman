@@ -4,7 +4,7 @@ permalink: /tricky_retrospective
 title: The Tricky Retrospective 
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
+  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
 In order to work as a well-functioning team, you occaisionally need to get things off your chest. There will always be gripes and things that frustrate you about the way that things are set up that stop you getting on with your work as well as you can. Team get-togethers are great as an opportunity to surface and tackle things like this. However, the mechanisms by which the problems are surfaced need to be carefully moderated, to make sure they are solution-oriented and not just rants.

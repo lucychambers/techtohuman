@@ -4,7 +4,7 @@ permalink: /theory_of_change/
 title: Utopian and Dystopian Theories of Change - A Template 
 tags: [Strategy, Responsible Data, Theory of Change]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
+  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
 <em> <strong> Widely-held Opinion (to which I subscribe): </strong> There is a huge amount of potential power to be unlocked in non-profits using technology in their quest for positive change in the world. </em> 

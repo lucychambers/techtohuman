@@ -4,7 +4,7 @@ permalink: /strategy_retreat
 title: My first strategy retreat - a template 
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
+  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
 # My first strategy retreat with School of Data 

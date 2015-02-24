@@ -4,7 +4,7 @@ permalink: /strategy_day_4
 title: Strategy Retreat - Day 4 
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
+  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
 <em>This post contains the activities for Day 4 of the strategy retreat. For more information and the links to the activities from other days, please see the [strategy retreat post](http://techtohuman.com/strategy_retreat/).</em> 

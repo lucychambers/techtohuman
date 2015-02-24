@@ -4,7 +4,7 @@ permalink: /musings/index.html
 title: Musings
 tags: [Tech translation, Tech translator, Technology, Jargon, Rants]
 image:
-  feature_url: https://s3-eu-west-1.amazonaws.com/techtohuman/images/IMG_0693_cropped.JPG 
+  feature_url: http://techtohuman.s3.amazonaws.com/images/milena_keyboard.jpg 
   
 ---
 
@@ -54,6 +54,28 @@ In this case, simply:
 
 1. Visit the [Github repository](https://github.com/lucychambers/lucychambers.github.io) for the site and find the page you are looking for. Or, if you are looking for an update on a particular post, go directly to the [posts](https://github.com/lucychambers/lucychambers.github.io/tree/master/_posts/articles).  
 2. Select the post or page and click on the *'History'* button to see a list of changes made to that post. You can click through on a particular change if you are interested in more details. 
+
+## The Series
+
+<div class="well"> 
+
+<h3> The 'So What?' series </h3> 
+
+I once had a professor who had a big green pen. If ever anyone in our class wrote something that they deemed self-evident, but probably was not self explanatory. They would get a big green 'So What?' stamped at the top of their page. 
+
+I have seen many excellent tutorials on many technical topics on the internet. However, hardly any of them really answer the questions: 'So what?' 'Why should I care?'. 
+
+When working at School of Data, we had two types of courses: 
+
+<ol> 
+	<li> <strong> Inspirational Courses </strong> -  Focussing on why people should get excited about learning a new skill and how they would be able to use it.  </li>
+	<li> <strong> How to Courses </strong> - The hands on, nitty-gritty of how to use a particular tool or skill.  </li> 
+</ol>
+
+It was pointless attempting the latter without the former.  The "So What?" series is an editorial; my best attempt at showing why you might want to care about a particular topic. 
+
+</div> 
+
 
 # Posts
 

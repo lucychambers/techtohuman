@@ -4,7 +4,7 @@ permalink: /defining_data
 title: Defining Data 
 tags: [Data 101, Facilitation]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
+  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
 # Defining Data 

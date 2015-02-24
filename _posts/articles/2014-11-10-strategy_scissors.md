@@ -4,7 +4,7 @@ permalink: /strategy_scissors
 title: Exercise - Strategy & Scissors 
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
+  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
 # Strategy and Scissors - a retrospective for plans 

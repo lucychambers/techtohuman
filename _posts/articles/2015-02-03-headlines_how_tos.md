@@ -4,7 +4,7 @@ permalink: /headlines_how_tos
 title: Headlines & How tos 
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
+  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
 In the "[What makes a good strategy?](http://techtohuman.com/good_strategy/)" post, I explained the [structure](http://techtohuman.com/good_strategy/#structure) which we used for the School of Data strategy document. The basic structure was for each goal to have an aligned rationale and methods which would be used to attain it. This exercise is a way of producing or revising a strategy document, which pops out nicely in that structure - so it could be handy to revise. 

@@ -3,7 +3,7 @@ layout: page
 permalink: /about/index.html
 title: About Tech to Human
 image:
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: http://techtohuman.s3.amazonaws.com/images/eyes_transfer.jpg
 ---
 
 Tech Translation is my hobby, and this is my playground. 
