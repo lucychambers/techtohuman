@@ -32,7 +32,7 @@ This exercise has two aims:
 
 In this exercise, you may get people expressing interest in things which are out of the scope of the project and you may need to burst some bubbles. Remember, any energy invested in personal development should align with the direction of the strategy!
 
-*Example: If a team member asks for support to become an astronaught, and space flight is not one of your headlines - you got a problem.*
+*Example: If a team member asks for support to become an astronaut, and space flight is not one of your headlines - you got a problem.*
 
 <div class="well"><h3>Explanatory note: 'Mucking in' and role flexibility </h3>
 
