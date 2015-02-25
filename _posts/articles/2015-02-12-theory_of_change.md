@@ -17,7 +17,7 @@ image:
 
 ## Some confessions
 
-**Confession 1:** I'm a big [Theory of Change](http://www.theoryofchange.org/what-is-theory-of-change/) fan. I have a hypothesis for *nearly everything*. 
+**Confession 1:** I'm a big [Theory of Change](http://www.theoryofchange.org/what-is-theory-of-change/) fan. 
 
 **Confession 2:** I really like the [Theory of Change template](http://diytoolkit.org/tools/theory-of-change/) from the [DIY Toolkit](http://diytoolkit.org) and it has become a staple of mine for creating lightweight, easy to read theories of change for projects. 
 
