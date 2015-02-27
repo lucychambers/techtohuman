@@ -1,35 +1,55 @@
 ---
 layout: page
 permalink: /about/index.html
-title: About Tech to Human
+title: Welcome to Tech to Human
 image:
   feature_url: http://techtohuman.s3.amazonaws.com/images/eyes_transfer.jpg
 ---
 
-Tech Translation is my hobby, and this is my playground. 
+<blockquote>Hi, I'm Lucy and I'm a <a href="#tech_translator">tech translator</a>.</blockquote> 
 
+Yes, I know that's not a real job title, but it is the closest thing I have found to explaining what I do... 
+
+## Why is this blog called Tech to Human? 
+
+Two reasons: 
+
+1. *Technical problems are very seldom purely technical problems.* Most, if not all, tech problems have a human component to them. So in one sense, the title is a spectrum, and the answer to most problems will require us to put effort into both parts of the equation. 
+2. *One of the major topics here will be language*, I am a linguist after all. I am fascinated by how we use language to talk about technical topics and often, how ineffectively we communicate when different people have different understandings of terms. 
+
+### There are three main things you can do at Tech to Human: 
+
+* *Discover* what is [on my mind](http://techtohuman.com/musings/). ([See what I write about](#topics)) 
+* *Collaborate!* I work with organisations who are exploring new ways that technology can help them in their work. [(Find out more)](/contact)
+* *Connect* via [Email](mailto:lucy@fedia.net) / [Twitter](https://twitter.com/lucyfedia) / [LinkedIn](http://uk.linkedin.com/in/lucyfedia). 
+
+<a name="tech_translator">
+
+## Tech translation - my definition
 
 <div class="well">
+
 <p><strong>Tech Translation</strong></p>
 <p>/tɛk transˈleɪʃ(ə)n,trɑːns-,-nz-/</p>
 <p><em>noun</em></p>
-<p>Stripping jargon out of technical topics to make them more accessible.</p>
+<p>Making technical topics more accessible. Commonly by eradicating jargon, finding analogies or demonstrating other ways of thinking about a problem. </p>
 </div>
 
+<a name="topics">
 
-[Musings](http://techtohuman.com/musings/) is a scratchpad. Explicitly non-perfect: these posts are version-controlled, learning-out-loud pieces which I update as my thinking evolves. 
-
-## Topics covered here:
+### Topics covered at Tech to Human:
 
 * Experiments in teaching data skills - particularly for NGO and journalist audiences. (Jump to: **[Data Posts](http://techtohuman.com/tags.html#Data 101), [Jargon Busting Posts](http://techtohuman.com/tags.html#Jargon)**)
 * Facilitation for strategising & planning tech projects - particularly building products that address real user needs. (Jump to: **[Facilitation Posts](http://techtohuman.com/tags.html#Facilitation), [Strategy Posts](http://techtohuman.com/tags.html#Strategy)**)
 * Non-profit and for-profit landscapes - what we can learn from how they approach particular scenarios, the evolving landscape of philanthropy and comparisons between open- and closed-source solutions to similar problems. (Posts coming soon)
 
+These are learning-out-loud pieces on the topic of tech translation which I update as my thinking evolves. All posts are version controlled to show how thoughts evolve over time.
+
 <div class="well">
 
 <h3> About Me </h3> 
 <p>
-<strong><em>Summary and current status</em>: I started my career in civic technology, open data and tech capacity building at the <a href="https://okfn.org/">Open Knowledge Foundation</a> where I worked from 2011-2015. I have recently left to take a break and write about what I have learned in the process. </strong> </p>
+<strong><em>Summary and current status</em>: I started my career in civic technology, open data and tech capacity building at the <a href="https://okfn.org/">Open Knowledge Foundation</a> where I worked from 2011-2015. I have recently started freelancing (more details in <a href="http://techtohuman.com/work_with_me">Work with me</a>). Beside that, I am enjoying taking some time off to write and reflect on what I have learned in the past few years and also writing a cookbook. </strong> </p>
 
 <p>
 The last four years have been a steep and enjoyable learning curve. I began as a community builder, becoming a researcher then project manager before finally becoming "Knowledge Director", responsible for leading programs to build data skills within NGOs. 
