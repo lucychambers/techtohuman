@@ -26,6 +26,8 @@ links:
     url: /musings
   - title: About
     url: /about
+  - title: Contact
+    url: /contact
   - title: Reading
     url: /reading
 
@@ -39,7 +41,7 @@ markdown:    kramdown
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title
 
-lsi: true
+lsi: false
 
 kramdown:
   auto_ids: true
