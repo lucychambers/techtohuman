@@ -14,7 +14,7 @@ Yes, I know that's not a real job title, but it is the closest thing I have foun
 
 Two reasons: 
 
-1. *Technical problems are very seldom purely technical problems.* Most, if not all, tech problems have a human component to them. So in one sense, the title is a spectrum, and the answer to most problems will require us to put effort into both parts of the equation. 
+1. *Technical problems are very seldom purely technical problems.* Most, if not all, tech problems have a human component to them. The title reflects my interest in exploring a spectrum between pure tech-powered solutions and pure human-powered solutions. My hunch is the answer to most problems is probably somewhere in the middle. 
 2. *One of the major topics here will be language*, I am a linguist after all. I am fascinated by how we use language to talk about technical topics and often, how ineffectively we communicate when different people have different understandings of terms. 
 
 ### There are three main things you can do at Tech to Human: 
