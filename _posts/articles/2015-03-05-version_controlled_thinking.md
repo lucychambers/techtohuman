@@ -1,20 +1,17 @@
 ---
-layout: page
-permalink: /musings/index.html
-title: Musings
-tags: [Tech translation, Tech translator, Technology, Jargon, Rants]
-image:
-  feature_url: http://techtohuman.s3.amazonaws.com/images/milena_keyboard.jpg 
-  
+layout: post
+permalink: /version_controlled_thinking
+title: Version Controlled Thinking 
+tags: [Version Control]
+image: 
+  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
-# This is not a blog...
+All of my posts are version controlled, meaning that you can see past edits, who they were changed by and when. E.g. [See the history of this page](https://github.com/lucychambers/lucychambers.github.io/blob/master/musings.md). 
 
-It is a series of thoughts on how to make technology more accessible to a variety of audiences. 
+<blockquote> Why do you do this? </blockquote> 
 
-All the posts are version controlled, meaning that you can see past edits, who they were changed by and when. E.g. [See the history of this page](https://github.com/lucychambers/lucychambers.github.io/blob/master/musings.md). 
-
-## Why do I do this, I hear you ask... 
+I hear you ask... 
 
 ![Version-Controlled-Thinking](http://techtohuman.s3.amazonaws.com/images/vct_3.jpeg)
 
@@ -42,28 +39,19 @@ I mean to cause you no pain in reading this blog, dear reader. If I have got som
 
 Time is precious, I don't want to waste yours. Occasionally, I will work out a much more consice way to explain something and go in and change it. 
 
-#### How to use the version control 
+#### Why you might want to use the version control 
 
-You do not have to ever look back at the history if you don't need to, however, I give you this option for a few reasons. 
+You do not have to ever look back at the history if you don't need to, however, I give you this option for a few reasons: 
 
 * Maybe you referenced something and now can't find the quote because I changed that text? 
 * Maybe you preferred a previous version of a diagram? 
 * Maybe you just want to see how many times I changed my mind. (I don't recommend this for the earlier posts, it was a lot!)
+
+#### How to use the version control 
 
 In this case, simply: 
 
 1. Visit the [Github repository](https://github.com/lucychambers/lucychambers.github.io) for the site and find the page you are looking for. Or, if you are looking for an update on a particular post, go directly to the [posts](https://github.com/lucychambers/lucychambers.github.io/tree/master/_posts/articles).  
 2. Select the post or page and click on the *'History'* button to see a list of changes made to that post. You can click through on a particular change if you are interested in more details. 
 
-
-# Posts
-
-<ul class="post-list">
-{% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
-
-<nav class="browse-button" role="navigation">
-<a href="/tags.html" class="btn" title="Browse by topic">Browse by topic</a>
-</nav>
+<em>I'm interested if anyone apart from me does use this feature, so I'd love to hear from you if you are using it! (lucy [at] fedia.net)</em>
