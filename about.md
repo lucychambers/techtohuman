@@ -20,7 +20,7 @@ Two reasons:
 ### There are three main things you can do at Tech to Human: 
 
 * *Discover* what is [on my mind](http://techtohuman.com/musings/). ([See what I write about](http://techtohuman.com/musings/#topics)) 
-* *Collaborate!* I work with organisations who are exploring new ways that technology can help them in their work. [(Find out more)](/contact)
+* *Collaborate!* I work with organisations who are exploring new ways that technology can help them in their work. [(Find out more)](/services)
 * *Connect* via [Email](mailto:lucy@fedia.net) / [Twitter](https://twitter.com/lucyfedia) / [LinkedIn](http://uk.linkedin.com/in/lucyfedia). 
 
 <a name="tech_translator">
@@ -37,11 +37,8 @@ Two reasons:
 
 <h3> About Me </h3> 
 
-
-<div class="well">
-
 <p>
-<strong><em>Summary and current status</em>: I started my career in civic technology, open data and tech capacity building at the <a href="https://okfn.org/">Open Knowledge Foundation</a> where I worked from 2011-2015. I have recently started freelancing (<a href="http://techtohuman.com/contact">more details</a>). Beside that, I am enjoying taking some time off to write and reflect on what I have learned in the past few years and also writing a cookbook. </strong> </p>
+<strong><em>Summary and current status</em>: I started my career in civic technology, open data and tech capacity building at the <a href="https://okfn.org/">Open Knowledge Foundation</a> where I worked from 2011-2015. I have recently started freelancing (<a href="http://techtohuman.com/services">more details</a>). Beside that, I am enjoying taking some time off to write and reflect on what I have learned in the past few years and also writing a cookbook. </strong> </p>
 
 <p>
 The last four years have been a steep and enjoyable learning curve. I began as a community builder, becoming a researcher then project manager before finally becoming "Knowledge Director", responsible for leading programs to build data skills within NGOs. 
@@ -73,6 +70,5 @@ Need more evidence? <a href="http://techtohuman.s3.amazonaws.com/images/bio-phot
 
 I can be reached on lucy [at] fedia.net and <a href="http://twitter.com/lucyfedia">@lucyfedia</a> on Twitter. 
 
-</div> 
 
 
