@@ -7,7 +7,7 @@ image:
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
-# Jargon busting - an activity for training techie trainers  
+# Jargon busting - an activity for training trainers  
 
 As a trainer who knows a little bit about technology - it's easy to get carried away in the moment; satisfied that we have finally understood what an API is, or why people should care about JSON - we forget that we didn't always know, and that the bewildered people in the room probably don't know either. 
 

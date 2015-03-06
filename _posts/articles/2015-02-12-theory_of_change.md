@@ -127,7 +127,7 @@ Actually, it turns out that the most interested group is made up of wealthier, m
  
 <h4> How do they find out about your work? </h4> 
 
-Your website is featured in the Guardian (its only media reference), lots of techie blogs and widely on social media. The mobile app version trends on the app store and appears in the top downloads, meaning many more people are exposed to it (leaderboard syndrome). 
+Your website is featured in the Guardian (its only media reference), lots of nerdy blogs and widely on social media. The mobile app version trends on the app store and appears in the top downloads, meaning many more people are exposed to it (leaderboard syndrome). 
 
 <h4> What are the measurable effects? </h4> 
 
