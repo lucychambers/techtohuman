@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /services/index.html
+permalink: /work_with_us/index.html
 title: Work with us
 image:
   feature_url: http://techtohuman.s3.amazonaws.com/images/milena_keyboard.jpg 
