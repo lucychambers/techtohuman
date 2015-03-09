@@ -10,7 +10,7 @@ image:
 
 This page contains carefully curated links to books articles and quotes that have influenced our thinking. 
 
-They are selected both for giving insight into technical topics and/or into understanding mindsets, strategies and the way humans tick. 
+They are selected both for giving insight into technical topics and/or into understanding mindsets and the way humans tick. 
 
 
 <style type="text/css" media="screen">
