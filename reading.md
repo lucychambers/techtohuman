@@ -8,6 +8,11 @@ image:
   
 ---
 
+This page contains carefully curated links to books articles and quotes that have influenced our thinking. 
+
+They are selected both for giving insight into technical topics and/or into understanding mindsets, strategies and the way humans tick. 
+
+
 <style type="text/css" media="screen">
 	.gr_grid_container {}
 
@@ -25,7 +30,7 @@ image:
 
 <div class="clearfix"></div>
 
-<a href="https://www.goodreads.com/review/list_rss/40304712?key=o5RAY6QpEHqhVyJx2do1vyEO6XElcv8KaLLl83F0qluTrJbe&shelf=tech-read">Get "tech-reads" RSS feed</a>
+<a href="https://www.goodreads.com/review/list_rss/40304712?key=o5RAY6QpEHqhVyJx2do1vyEO6XElcv8KaLLl83F0qluTrJbe&shelf=tech-read">Get "tech-to-human-reads" RSS feed</a>
 
 <h2>Quotes</h2>
 
