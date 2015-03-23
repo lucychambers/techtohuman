@@ -1,8 +1,21 @@
 ---
 layout: page
-title: Tag Index
-description: "An archive of posts sorted by tag."
+title:  
+description: "Browse posts sorted by the series or by general topic"
 ---
+
+<h1 class="entry-title" itemprop="name"> Browse by series </h1>
+
+{% for cat in site.categories %}
+<h2 id="{{ cat[0] }}">{{ cat[0] | capitalize }}</h2>
+<ul class="post-list">
+  {% for post in cat[1] %}
+	 <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"> <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>
+  {% endfor %}
+</ul>
+{% endfor %}
+
+<h1 class="entry-title" itemprop="name"> Browse by tag </h1>
 
 <ul class="tag-box inline">
 {% assign tags_list = site.tags %}  
@@ -25,7 +38,7 @@ description: "An archive of posts sorted by tag."
 		{% for post in pages_list %}
 			{% if post.title != null %}
 			{% if group == null or group == post.group %}
-			<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>
+			<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"> <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>
 			{% endif %}
 			{% endif %}
 		{% endfor %}
