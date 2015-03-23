@@ -10,7 +10,7 @@ image:
 
 Yes, I know that's not a real job title, but it is the closest thing I have found to explaining what I do... 
 
-## Where did the name Tech to Human come from? 
+## Why did you call it "Tech to Human"? 
 
 Two reasons: 
 
