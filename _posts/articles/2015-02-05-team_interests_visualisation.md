@@ -5,6 +5,7 @@ title: Team Interests Visualisation
 tags: [Facilitation, Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+category: Individual Facilitation Exercises
 ---
 
 This series of exercises serves as a mechanism for surfacing interests of the team within the context of planned work. 

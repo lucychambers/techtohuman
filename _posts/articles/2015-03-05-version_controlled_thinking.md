@@ -5,6 +5,7 @@ title: Version Controlled Thinking
 tags: [Version Control]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+category: Version Control
 ---
 
 All of my posts are version controlled, meaning that you can see past edits, who they were changed by and when. E.g. [See the history of this page](https://github.com/lucychambers/lucychambers.github.io/blob/master/musings.md). 

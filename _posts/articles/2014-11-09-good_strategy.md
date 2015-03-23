@@ -5,6 +5,7 @@ title: Writing User Stories for Your Strategy
 tags: [Facilitation, Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+category: Individual Facilitation Exercises
 ---
 
 # What makes a good strategy document?
