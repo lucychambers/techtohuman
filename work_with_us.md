@@ -31,4 +31,4 @@ We help non-profit and philanthropic organisations answer two critical questions
 
 ## More detail: 
 
-Get in touch: lucy [at] fedia . net 
+Get in touch: lucy [at] fedia . net
