@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /work_with_us/index.html
+permalink: /work_with_us_copy/index.html
 title: Collaborate
 image:
   feature_url: http://techtohuman.s3.amazonaws.com/images/milena_keyboard.jpg 
