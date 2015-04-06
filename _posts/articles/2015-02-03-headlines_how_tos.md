@@ -52,10 +52,10 @@ In order to do this, you will need to put in some effort to align the previous c
 	<li> Next, allow people to revisit the outputs listed above from the previous days. Ask people to write one activity which they think should take place within the next X months (however long you are targeting your strategy for) on an individual postit note. Next, lay out the A4 paper with the headlines on the floor. Ask people to cluster their activities around the headline that is most appropriate.If they can't find a headline - you will need to ask yourself if this is really valuable. </li> 
 </ol>
 
-## In the end
+<h2> In the end </h2>
 
 <a name="output12">
-	
+
 At the end of this activity, you will be left with <strong>output 12:</strong> a first draft of the suggested headlines for your strategy, rationales for each and with suggested aligned activities. 
 
 This activity does not write the strategy, however, it does give an opportunity for people to offer input to the process based on their experience delivering it in its previous iteration and domain knowledge which they may have picked up in the field. From here, it is likely to be the job of one person to synthesise and react to the comments given. This inevitably involves a lot of cutting, but at least everyone has had the chance to surface their worries and someone has to lead to do the hard job of working out what to take forward. 
