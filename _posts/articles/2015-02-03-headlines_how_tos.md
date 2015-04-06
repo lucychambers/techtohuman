@@ -54,7 +54,8 @@ In order to do this, you will need to put in some effort to align the previous c
 
 ## In the end
 
- <a name="output12">
+<a name="output12">
+	
 At the end of this activity, you will be left with <strong>output 12:</strong> a first draft of the suggested headlines for your strategy, rationales for each and with suggested aligned activities. 
 
 This activity does not write the strategy, however, it does give an opportunity for people to offer input to the process based on their experience delivering it in its previous iteration and domain knowledge which they may have picked up in the field. From here, it is likely to be the job of one person to synthesise and react to the comments given. This inevitably involves a lot of cutting, but at least everyone has had the chance to surface their worries and someone has to lead to do the hard job of working out what to take forward. 
