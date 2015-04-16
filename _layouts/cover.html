@@ -15,14 +15,11 @@
 <div id="main" role="main" itemprop="mainContentOfPage">
   <article class="entry" itemscope itemtype="http://schema.org/ItemPage">
     {% include feature-image.html %}
-    <div class="entry-wrapper">
-      <header class="entry-header">
-        <h1 class="entry-title" itemprop="name">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
-      </header>
-      <div class="entry-content" itemprop="description">
-        {{ content }}
-      </div><!-- /.entry-content -->
-    </div><!-- /.entry-wrapper -->
+    
+    <h1 class="entry-title" itemprop="name">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
+    <div class="container" itemprop="description">
+      {{ content }}
+    </div>
   </article>
 </div><!-- /#main -->
 

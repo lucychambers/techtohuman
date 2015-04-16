@@ -1,82 +1,41 @@
 ---
-layout: page
+layout: cover
 title: Tech to Human
 description: "Translating nerd. Learning on the go."
 image:
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
-Posts about learning to navigate a digital world and helping others do the same. 
+<p class="centered">Posts about learning to navigate a digital world and helping others do the same.</p>
 
-<table>
-  <tr>
-    <td><nav class="browse-button" role="navigation">
-<a href="/#series" class="btn" title="Browse by series">Browse by series</a>
-</nav></td>
-    <td><nav class="browse-button" role="navigation">
-<a href="/#topic" class="btn" title="Browse by topic">Browse by topic</a>
-</nav></td>
-	<td><nav class="browse-button" role="navigation">
-<a href="/#order" class="btn" title="Browse by order">Browse by order published</a>
-</nav></td>
-  </tr>
-</table>
-
-
-<a name="series">
-
-<h1 class="entry-title" itemprop="name"> Browse by series </h1>
-
-{% for cat in site.categories %}
-<h2 id="{{ cat[0] }}">{{ cat[0] | capitalize }}</h2>
-<ul class="post-list">
-  {% for post in cat[1] %}
-	 <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"> <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>
-  {% endfor %}
-</ul>
-{% endfor %}
-
-<a name="topic">
-
-<h1 class="entry-title" itemprop="name"> Browse by topic </h1>
-
-<ul class="tag-box inline">
-{% assign tags_list = site.tags %}  
-  {% if tags_list.first[0] == null %}
-    {% for tag in tags_list %} 
-    	<li><a href="#{{ tag }}">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></li>
+<div class="cover-columns row">
+  <div class="col-md-6">
+    <h2>Browse by series</h2>
+    {% for cat in site.categories %}
+      <h3 id="{{ cat[0] }}">{{ cat[0] | capitalize }}</h3>
+      <ul class="post-list">
+        {% for post in cat[1] %}
+         <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
     {% endfor %}
-  {% else %}
-    {% for tag in tags_list %} 
-    	<li><a href="#{{ tag[0] }}">{{ tag[0] }} <span>{{ tag[1].size }}</span></a></li>
+  </div>
+
+  <div class="col-md-6">
+    <h2>Browse by Order Published</h2>
+    <ul class="post-list">
+    {% for post in site.posts limit:100 %} 
+      <li>
+        <article>
+          <a href="{{ site.url }}{{ post.url }}">
+            {{ post.title }} 
+            <p>
+              <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span>
+            </p>
+          </a>
+        </article>
+      </li>
     {% endfor %}
-  {% endif %}
-{% assign tags_list = nil %}
-</ul>
-
-{% for tag in site.tags %} 
-	<h2 id="{{ tag[0] }}">{{ tag[0] }}</h2>
-	<ul class="post-list">
-		{% assign pages_list = tag[1] %}  
-		{% for post in pages_list %}
-			{% if post.title != null %}
-			{% if group == null or group == post.group %}
-			<li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"> <time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%B %d, %Y" }}</time></span></a></li>
-			{% endif %}
-			{% endif %}
-		{% endfor %}
-		{% assign pages_list = nil %}
-		{% assign group = nil %}
-	</ul>
-{% endfor %}
-
-<a name="order">
-
-<h1 class="entry-title" itemprop="name"> Browse by Order Published </h1>
-
-
-<ul class="post-list">
-{% for post in site.posts limit:100 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
+    </ul>
+  </div>
+</div>
