@@ -7,7 +7,7 @@ image:
   
 ---
 
-# This is not a blog...
+# This is not a blog
 
 It is a series of thoughts on how to make technology more accessible to a variety of audiences. 
 
