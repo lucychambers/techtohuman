@@ -18,7 +18,7 @@
     {% if page.image.feature_url %}<img src="{{ page.image.feature_url }}" class="entry-feature-image" alt="{{ page.title }}" itemprop="image">{% endif %}
     <div class="entry-wrapper">
       <header class="entry-header">
-        <h1 class="entry-title" itemprop="name">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}</h1>{% endif %}
+        <h1 class="entry-title" itemprop="name">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}{% endif %}</h1>
       </header>
       <div class="entry-content" itemprop="description">
         {{ content }}
