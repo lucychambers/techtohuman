@@ -9,7 +9,7 @@ image:
 
 We help non-profit and philanthropic organisations answer two critical questions about technology: 
 
-1. Will it make our work better? And 
+1. Will it make our work better? *and* 
 2. What do we do next?  
 
 ## What we offer
