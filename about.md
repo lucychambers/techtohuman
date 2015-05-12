@@ -10,7 +10,7 @@ image:
 
 Yes, I know that's not a real job title, but it is the closest thing I have found to explaining what I do... 
 
-## Why did you call it "Tech to Human"? 
+## Why is this site called "Tech to Human"? 
 
 Two reasons: 
 
@@ -68,7 +68,7 @@ Need more evidence? <a href="http://techtohuman.s3.amazonaws.com/images/bio-phot
 
 <h4> Contact </h4>
 
-I can be reached on lucy [at] fedia.net and <a href="http://twitter.com/lucyfedia">@lucyfedia</a> on Twitter. 
+I can be reached on lucy [at] techtohuman.com and <a href="http://twitter.com/lucyfedia">@lucyfedia</a> on Twitter. 
 
 
 
