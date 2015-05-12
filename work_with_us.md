@@ -14,9 +14,8 @@ We help non-profit and philanthropic organisations answer two critical questions
 
 ## What we offer
 
+* *Product Management* - user-centred design of software solutions 
 * *Research* - from empirical to ethnographic, landscaping to user requirements 
-* *Skills audits* - for organisations looking to bring in technical expertise in-house 
-* *Advice* on designing and commissioning products
 * *Guided tours* - support in navigating and adapting existing open-source solutions to meet your needs 
 * *Jargon-free introductions* to technical topics  
 
@@ -31,4 +30,4 @@ We help non-profit and philanthropic organisations answer two critical questions
 
 ## More detail: 
 
-Get in touch: lucy [at] fedia . net
+Get in touch: lucy [at] techtohuman.com
