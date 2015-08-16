@@ -20,3 +20,9 @@
 	text-align: center;
 }
 
+.pagination {
+	display: block;
+	margin-left: auto;
+    margin-right: auto;
+}
+
