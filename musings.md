@@ -12,7 +12,7 @@ At Tech to Human, we are fascinated by:
 <ul>
 	<li><strong> Experiments in teaching data & technology skills</strong> - particularly to NGO and journalist audiences. (Jump to: <a href="http://techtohuman.com/tags.html#Data 101">Data Posts</a>, <a href="http://techtohuman.com/tags.html#Jargon">Jargon Busting Posts</a>)</li>
 	<li><strong>Facilitation for designing tech projects & understanding user needs</strong> (Jump to: <a href="http://techtohuman.com/tags.html#Facilitation">Facilitation Posts</a>, <a href="http://techtohuman.com/tags.html#Strategy">Strategy Posts</a>)</li>
-	<li><strong>The intersection of technology and other sectors</strong> From politics to healthcare, exploring what happens when you add technology to the mix.</li> 
+	<li><strong>The intersection of technology and other sectors</strong> From politics to healthcare, exploring what happens when you mix technology and wicked problems.</li> 
 </ul>	
 
 <p> 
