@@ -26,3 +26,15 @@
     margin-right: auto;
 }
 
+table, th, td {
+	border: 1px solid black;
+}
+
+th, td {
+	padding: 15px;
+}
+
+th {
+	background-color: black;
+	color: white;
+}
