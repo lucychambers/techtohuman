@@ -52,8 +52,10 @@ Some roles (I'm currently doing one) necessitate needing to switch hats between 
 
 In a highly oversimplified form, the difference between the two is as follows: 
 
-* *A product manager* is the translation layer between a team of developers and stakeholders. They define criteria for *what* needs to be built and *why*. 
+* *A product manager* is the translation layer between a team of developers and stakeholders<text>*</text>. They define criteria for *what* needs to be built and *why*. 
 * *A project manager* defines the *how* and *when*: e.g. how much money can be spent, when certain things need to be delivered and often staffing.  
+
+<small>* Stakeholders in my case are often external clients, but can also be managers and other internal "clients" at the organisation. </small>
 
 ## How I like to think of my job: 
 
@@ -107,3 +109,6 @@ I reassure them that I am going to have to learn their world and they will learn
 * [Neo's breakdown of different flavours of product managers (Archive.org)](https://web.archive.org/web/20150924141041/http://careers.neo.com/product-manager)
 * [Product coalition's amazing piece on how product managers spend their time depending on the team they are in](https://productcoalition.com/three-jobs-of-product-management-9e006f944bc7#.3uoecuihr)
 
+## Acknowledgements
+
+Thank you to [Amir](https://twitter.com/amirhhz) and [Tony](https://twitter.com/tmtm?lang=en) for their thoughts on this post and for generally lending me their brains to hash out product stuff! 
