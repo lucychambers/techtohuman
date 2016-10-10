@@ -3,16 +3,16 @@ layout: page
 permalink: /musings/index.html
 title: Musings
 image:
-  feature_url: http://techtohuman.s3.amazonaws.com/images/milena_keyboard.jpg 
+  feature_url: http://techtohuman.s3.amazonaws.com/images/product_manager_title.png 
   
 ---
 
-At Tech to Human, we are fascinated by:
+At Tech to Human, we focus on:
 
 <ul>
+	<li><strong>Product Management & facilitation for understanding user (& staff) needs</strong> (Jump to: <a href="http://techtohuman.com/tags.html#Product">Product Posts</a>, <a href="http://techtohuman.com/tags.html#Facilitation">Facilitation Posts</a>,)</li>
 	<li><strong> Experiments in teaching data & technology skills</strong> - particularly to NGO and journalist audiences. (Jump to: <a href="http://techtohuman.com/tags.html#Data 101">Data Posts</a>, <a href="http://techtohuman.com/tags.html#Jargon">Jargon Busting Posts</a>)</li>
-	<li><strong>Facilitation for designing tech projects & understanding user needs</strong> (Jump to: <a href="http://techtohuman.com/tags.html#Facilitation">Facilitation Posts</a>, <a href="http://techtohuman.com/tags.html#Strategy">Strategy Posts</a>)</li>
-	<li><strong>The intersection of technology and other sectors</strong> From politics to healthcare, exploring what happens when you mix technology and wicked problems.</li> 
+	<li><strong>The NGO tech world</strong> (Jump to: <a href="http://techtohuman.com/tags.html#Strategy">NGO tech Strategy Posts</a>)
 </ul>	
 
 <p> 
