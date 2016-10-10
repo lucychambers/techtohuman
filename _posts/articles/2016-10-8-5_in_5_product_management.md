@@ -38,13 +38,13 @@ What I learned about:
 
 # A new role 
 
-In April 2015, I started freelancing as a product manager. Since then, I have been asked regularly (sometimes at least once per week) 
+In April 2015, I started freelancing as a product manager for software companies. Since then, I have been asked regularly (sometimes at least once per week): 
 
 > "But what do you do exactly? Is that like a project manager?"
 
 The confusion probably arises from the fact that *project* management is relatively well understood. *Project* manager is a role that exists in many spheres, both technical and non-technical. 
 
-Some roles (I'm currently doing one) necessitate needing to switch hats between product / project management. There are different flavours of product manager, but it *is* always a distinct role from a project manager. 
+Some roles (including ones I've held) necessitate needing to switch hats between product / project management. There are different flavours of product manager, but it *is* always a distinct role from a project manager. 
 
 <div class="well">
 <small><strong>Note:</strong> There are cons and pros to having these two roles in the same person. I have opinions on that, but that's a topic for another day.</small>
