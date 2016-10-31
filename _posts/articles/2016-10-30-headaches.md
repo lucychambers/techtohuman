@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /headaches
-title: Headaches 
+title: Defining Problems as Headaches 
 tags: [Product, Strategy, Problems]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
