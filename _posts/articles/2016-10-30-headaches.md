@@ -36,7 +36,7 @@ I also have a pet peeve: technology projects (often non-profit ones) which start
 
 OR 
 
-* "Istvan, anti-corruption campaigner, who bears a personal grudge against the government of his country after officials drove his sausage-making business into the ground when he refused to pay a bribe. HEADACHE: A similar thing is about to happen to his son and his next door neighbour."
+* "Istvan, anti-corruption campaigner, who bears a personal grudge against the government of his country after officials drove his sausage-making business into the ground when he refused to pay a bribe. HEADACHE: A similar thing is about to happen to his son and his nextdoor neighbour."
 
 *Just a little thing I think about sometimes. [Let me know](http://techtohuman.com/contact/) if you have other techniques for forcing people to think about real humans rather than abstract entities!*
   
