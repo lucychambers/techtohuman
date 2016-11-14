@@ -2,7 +2,7 @@
 layout: post
 permalink: /5_in_5_product_management
 title: "5 years in 5 posts.  Part 5&#58; Product Management" 
-tags: [Product, Strategy]
+tags: [Product, Strategy, Problems]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 category: 5 years of learnings
