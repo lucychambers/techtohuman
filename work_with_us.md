@@ -7,11 +7,6 @@ image:
   
 ---
 
-We help non-profit and philanthropic organisations answer two critical questions about technology: 
-
-1. Will it make our work better? *and* 
-2. What do we do next?  
-
 ## What we offer
 
 * *Product Management* - user-centred design of software solutions 
@@ -21,7 +16,7 @@ We help non-profit and philanthropic organisations answer two critical questions
 
 ## Our specialities include
 
-* Virtual organisations and teams - including best practices for managing workflows and motivating team members
+* Virtual and distributed organisations and teams - including best practices for managing workflows and motivating team members
 * Open Data - How to open data, motivations and incentives, follow up and engagement.
 * Non-profits - both traditional grant funded organisations and hybrid commercial entities
 * Building teams to tackle problems - how and when to bring in technical staff
