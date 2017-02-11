@@ -26,6 +26,15 @@
     margin-right: auto;
 }
 
+.emailsignup {
+	padding:3px;
+	text-align:center;
+}
+
+#tlemail {
+	margin:10px 0;
+}
+
 table, th, td {
 	border: 1px solid black;
 }
@@ -38,3 +47,5 @@ th {
 	background-color: black;
 	color: white;
 }
+
+
