@@ -33,20 +33,20 @@
         {{ content }}
         <div class="entry-wrapper">
         <div class="entry-content" itemprop="description">
-        <div class="well">
-  <span class="codeline"><p>
- <h4>Enjoy this post? Never miss an update: </h4>
+
+<h3>Get updates straight to your inbox!</h3>
+ <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://tinyletter.com/lucyfedia" method="post" target="popupwindow" onsubmit="window.open('https://tinyletter.com/lucyfedia', 'popupwindow', 'scrollbars=yes,width=800,height=600');return true"><p><label for="tlemail">Enter your email address:</label></p><p><input type="text" style="width:60%" name="email" id="tlemail" /></p><input type="hidden" value="1" name="embed"/><input type="submit" value="Subscribe" class="btn"/><p></form>
+
+Alternatively:
  <em>
   <ul>
-    <li>Here's the Tech to Human RSS <a href="http://techtohuman.com/feed.xml">feed</a>. New to RSS? Useful links: </li> 
-    <ul>
-      <li><a href="http://www.bbc.com/news/10628494">What is an RSS feed? (A bit retro - but covers main bases.)</a>, </li> 
-      <li><a href="http://gizmodo.com/10-google-reader-alternatives-that-will-ease-your-rss-p-5990540">Slightly more recent list of feed readers.</a></li>
-    </ul>
+    <li>Here's the <a href="http://techtohuman.com/feed.xml">RSS feed</a>. 
     <li>Or follow me on <a href="https://twitter.com/lucyfedia">Twitter</a>.</li>
   </ul> </em></small></span></p>
-
-  <h4> Related posts </h4> 
+ 
+        <div class="well">
+  <span class="codeline"><p>
+  <h2> Related posts </h2> 
 
 {% for post in site.related_posts limit:4 %}
   <a href="{{ post.url }}">{{ post.title }}</a><br />
