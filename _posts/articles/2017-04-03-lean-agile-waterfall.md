@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /lean-agile-waterfall
-title: A lean agile waterfall - Jargon busting software approaches    
+title: A lean, agile waterfall - Jargon busting software approaches    
 tags: [Jargon, Product]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
