@@ -95,6 +95,10 @@ Here's a quick summary:
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/dRyQMs52klLfgZ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/lucychambers587/2-managing-software-projects-part-ii" title="Managing Software Projects" target="_blank">Managing Software Projects</a> </strong> from <strong><a target="_blank" href="//www.slideshare.net/lucychambers587">Lucy Chambers</a></strong> </div>
 
+### This post is a work in process 
+
+I continuously improve these posts as I learn more about a topic. Drop me a line at lucy [at] techtohuman [dot] com if you have any thoughts or suggestions. 
+
 ### Further reading 
 
 * The Sideways Dictionary on analogies for [agile software development](https://sidewaysdictionary.com/#/term/agile-software-development)
