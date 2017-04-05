@@ -13,17 +13,7 @@ image:
 
 
 <div class="cover-columns row">
-  <div class="col-md-6">
-    <h2>Browse by series</h2>
-    {% for cat in site.categories %}
-      <h3 id="{{ cat[0] }}">{{ cat[0] | capitalize }}</h3>
-      <ul class="post-list">
-        {% for post in cat[1] %}
-         <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
-        {% endfor %}
-      </ul>
-    {% endfor %}
-  </div>
+  
 
   <div class="col-md-6">
     <h2>Browse by Order Published</h2>
@@ -41,5 +31,17 @@ image:
       </li>
     {% endfor %}
     </ul>
+  </div>
+
+  <div class="col-md-6">
+    <h2>Browse by series</h2>
+    {% for cat in site.categories %}
+      <h3 id="{{ cat[0] }}">{{ cat[0] | capitalize }}</h3>
+      <ul class="post-list">
+        {% for post in cat[1] %}
+         <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endfor %}
   </div>
 </div>
