@@ -10,9 +10,9 @@ image:
 At Tech to Human, we focus on:
 
 <ul>
-	<li><strong>Product Management & facilitation for understanding user (& staff) needs</strong> (Jump to: <a href="http://techtohuman.com/tags.html#Product">Product Posts</a>, <a href="http://techtohuman.com/tags.html#Facilitation">Facilitation Posts</a>,)</li>
-	<li><strong> Experiments in teaching data & technology skills</strong> - particularly to NGO and journalist audiences. (Jump to: <a href="http://techtohuman.com/tags.html#Data 101">Data Posts</a>, <a href="http://techtohuman.com/tags.html#Jargon">Jargon Busting Posts</a>)</li>
-	<li><strong>The NGO tech world</strong> (Jump to: <a href="http://techtohuman.com/tags.html#Strategy">NGO tech Strategy Posts</a>)</li>
+	<li><strong>Product Management</strong> (<a href="http://techtohuman.com/tags.html#Product">Take me to product posts</a>)</li>
+	<li><strong> Talking about technology in plain language and other ways to make it more accessible</strong> (Jump to: <a href="http://techtohuman.com/tags.html#Jargon">Jargon Busting Posts</a>, <a href="http://techtohuman.com/tags.html#Data 101">Data Posts</a>, <a href="http://techtohuman.com/tags.html#Facilitation">Facilitation Posts</a>)</li>
+	<li><strong>NGO tech</strong> (<a href="http://techtohuman.com/tags.html#Strategy">Take me to NGO Tech Posts</a>)</li>
 </ul>	
 
 <p> 
