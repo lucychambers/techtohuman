@@ -5,7 +5,7 @@ title: "Problems: A simple typology"
 tags: [Product, Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
-category: Problems
+category: Product
 
 ---
 
