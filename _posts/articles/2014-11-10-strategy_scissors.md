@@ -5,7 +5,7 @@ title: Exercise - Strategy & Scissors
 tags: [Facilitation, Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
-category: Individual Facilitation Exercises
+
 ---
 
 # Strategy and Scissors - a retrospective for plans 
