@@ -5,7 +5,7 @@ title: Tech Translation - Sliding Doors
 tags: [Product, Strategy, Problems]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
-category: Tech Translation
+category: Jargon
 
 ---
 
