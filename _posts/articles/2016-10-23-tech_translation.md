@@ -15,13 +15,13 @@ category: Tech Translation
 
 On the [about](http://techtohuman.com/about/) page of Tech to Human, tech translation is defined as: 
 
-> Making technical topics more accessible. Commonly by eradicating jargon, finding analogies or demonstrating other ways of thinking about a problem.
+> Making technical topics more accessible and inviting by being deliberate about the language used to talk about them.
 
 I first understood how direly we were in need of more tech translators when I heard the below story from a contact in the UK government (we'll call him Barney). Barney was responsible for overseeing and commissioning digital products within the UK government. 
 
 ***
 
-## Sliding Doors - Safe Spaces 
+# What happens when we don't create inviting spaces to talk about tech
 
 At the end of a long day, Barney is approaching the office lift on the way home. As the doors part Barney steps in, relaxing slightly, happy to have found a moment's peace. The doors begin to close. 
 
@@ -36,11 +36,7 @@ A moment later, Barney's moment of calm is interrupted by one of his team (we'll
 
 Ernie's situation is a surprisingly common one: that of a decision maker unable or unwilling to reveal gaps in their knowledge. There are many reasons why Ernie may have ended up in this position. Maybe it was the culture or structure of the organisation that did not make it seem ok to show this vulnerability.
 
-The implications of this problem are widespread. Organisations waste huge amounts of money every year and the wrong things can be built, sometimes dangerously so e.g. if working with vulnerable communities, as my friend Zara explains in her [blog post](https://points.datasociety.net/who-does-the-hard-work-of-bridging-context-and-technical-skills-bf968a56764b#.tn5nc2kcu) on the topic. 
-
-Hence, in my revamped definition of tech translation, I would add: 
-
-> [Making technical topics more accessible.] Commonly by *creating a safe space to discuss knowledge gaps*...
+The implications of this problem are widespread. Organisations waste huge amounts of money every year and the wrong things can be built, see my [dashboard rant](http://techtohuman.com/dashboards). Sometimes, there are also [lethal consequences](https://points.datasociety.net/who-does-the-hard-work-of-bridging-context-and-technical-skills-bf968a56764b).  
 
 # My path to tech translation  
 
@@ -57,7 +53,7 @@ It turned out that this also benefited the team. Forcing them to break down topi
 
 From there, I moved into [training](http://techtohuman.com/5_in_5_teaching) and [capacity building](http://techtohuman.com/5_in_5_impact_ladder) roles where I observed that those who had recently learned something were often best placed to teach it. Finally, I landed in a [product management](http://techtohuman.com/5_in_5_product_management) role, which was what I was advised to do whenever I told someone that I enjoyed 'tech translation' and told them how I defined it. 
 
-As Zara points out in her [post](https://points.datasociety.net/who-does-the-hard-work-of-bridging-context-and-technical-skills-bf968a56764b#.tn5nc2kcu), there are many roles which have an aspect of tech translation in them: 
+As Zara Rahman points out in her [post](https://points.datasociety.net/who-does-the-hard-work-of-bridging-context-and-technical-skills-bf968a56764b#.tn5nc2kcu), there are many roles which have an aspect of tech translation in them: 
 
 > The role exists under many names, and it’s often present in an ad hoc way. Some product managers do it. Some UX designers do it. Some community managers do it. Some people think of it as tech translation, or playing a bridge or a broker role, or even being a catalyst or champion among a community.
 
@@ -68,11 +64,11 @@ Everyone will have a slightly different journey to becoming a tech translator, t
 So what are the fundamental aspects of tech translation? If your job contains large chunks of the following, congratulations: you are probably a tech translator! :)
 
 * **C**ommunication — translators prioritise communication. That may mean explaining something again and again in different ways until the stakeholder gets it, but it is worth it.  
-* **C**ontext — the translator needs to understand the context in which the project is operating. 
-* **C**ulture — are there specifics of the culture or language which need to be taken into account when designing a tech project? I consider it no coincidence at all that some of the best tech translators are multi-lingual or have backgrounds in ethnography / sociology / anthropology. 
+* **C**ontext — the translator invests time to understand the context in which the project is operating so that they can relate their solution to real-world things. 
 * **C**ompromise — all tech projects have to make tradeoffs. A good tech translator can explain the implications of all of the options and work with stakeholders to guide them to the best outcome of a project. 
-* **C**ombatting hype — speaking in plain terms (NO JARGON) about the problems to be fixed helps to avoid hype around the next big thing (no, your project is not a big data project).  
+* **C**ombatting hype — speaking in plain terms (NO JARGON) about the problems to be fixed helps to avoid hype around the next big thing (no, your project is not a big data project). 
+* **C**ulture — are there specifics of the culture or language which need to be taken into account when designing a tech project? I consider it no coincidence that some of the best tech translators are multi-lingual or have backgrounds in ethnography / sociology / anthropology.  
 
-Overall, tech translation is about giving someone (in my case, usually someone commissioning a piece of software) a sense of **C**omfort, that you are approachable enough to ask questions and giving them a sense of **C**ontrol over the project, particularly if you are an outside contractor or a technical partner. 
+Overall, tech translation is about creating a sense of **C**omfort, that you are approachable enough to ask questions and giving them a sense of **C**ontrol over the project, particularly if you are an outside contractor or a technical partner. 
 
 
