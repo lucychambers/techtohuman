@@ -11,7 +11,7 @@ This page is what I link to when people ask me for a bio and picture.
 
 ## Bio
 
-**Lucy [crept into tech through a back door](http://techtohuman.com/5_in_5_fluency). She draws on the memories of being a newbie in this world to make technical careers more inviting to those from non-traditional backgrounds and to enable conversations with first time tech users and clients from outside the tech bubble. Her schtick is the benefits of eliminating jargon from the workplace.** 
+**Lucy [crept into tech through a back door](http://techtohuman.com/5_in_5_fluency). She draws on the memories of being a newbie in the tech world to make tech more inviting and less mysterious to those attempting to engage with it. Her schtick is the benefits of eliminating jargon from the workplace.** 
 
 After embarking on a career as a journalist, she took a few turns which lead to a career at [Open Knowledge](https://okfn.org/) *teaching journalists* how and why to work with data. She was one of the editors of the [Data Journalism Handbook](http://datajournalismhandbook.org/). She later lead the highly successful [School of Data](https://schoolofdata.org/) programme which extended technical training to non-profit organisations. 
 
