@@ -17,9 +17,8 @@ Yes, I know that's not a real job title, but it is the closest thing I have foun
 <div class="well">
 
 <p><strong>Tech Translation</strong></p>
-<p>/tɛk transˈleɪʃ(ə)n,trɑːns-,-nz-/</p>
 <p><em>noun</em></p>
-<p>Making technical topics more accessible. Commonly by eradicating jargon, finding analogies or demonstrating other ways of thinking about a problem. </p>
+<p>Making technical topics more accessible and inviting by being deliberate about the language used to talk about them. </p>
 </div>
 
 ## Why is this site called "Tech to Human"? 
