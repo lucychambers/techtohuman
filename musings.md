@@ -3,7 +3,7 @@ layout: page
 permalink: /musings/index.html
 title: Musings
 image:
-  feature_url: http://techtohuman.s3.amazonaws.com/images/product_manager_title.png 
+  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg 
   
 ---
 
