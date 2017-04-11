@@ -5,7 +5,7 @@ title: Defining Data
 tags: [Data 101, Facilitation]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
-category: Individual Facilitation Exercises
+category: Jargon
 ---
 
 # Defining Data 

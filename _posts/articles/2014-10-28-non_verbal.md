@@ -5,7 +5,7 @@ title: Jargon Busting - non-verbal communication
 tags: [Jargon, Facilitation, Non-verbal Communication]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
-category: Individual Facilitation Exercises
+category: Jargon
 
 ---
 

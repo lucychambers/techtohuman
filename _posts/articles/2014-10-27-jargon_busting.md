@@ -5,7 +5,7 @@ title: Jargon Busting in "Ten Hundred Words"
 tags: [Data 101, Jargon, Facilitation]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
-category: Individual Facilitation Exercises
+category: Jargon
 
 ---
 
