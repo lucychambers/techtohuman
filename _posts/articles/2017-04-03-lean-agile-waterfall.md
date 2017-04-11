@@ -5,6 +5,8 @@ title: A lean, agile waterfall - Jargon busting software approaches
 tags: [Jargon, Product]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+category: Jargon
+
 ---
 
 **This blog post is for *you*, the well-oiled and very capable organisation that, for *possibly the first time*, has decided to engage in a technology project.** 
