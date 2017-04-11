@@ -5,7 +5,6 @@ title: Strategy Retreat - Day 2
 tags: [Facilitation, Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
-category: Strategy Retreat
 ---
 
 <em>This post contains the activities for Day 2 of the strategy retreat. For more information and the links to the activities from other days, please see the [strategy retreat post](http://techtohuman.com/strategy_retreat/).</em> 
