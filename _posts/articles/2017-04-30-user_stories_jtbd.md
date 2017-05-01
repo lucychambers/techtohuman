@@ -81,7 +81,7 @@ No template is rigid. Always look for the intention captured by a template and h
 
 You will probably find different ones useful in different scenarios! 
 
-In my next post, I will discuss some of the ways that it is *not* ok to hack user stories. 
+In my [next post: Wolf in Sheep's Clothing](http://techtohuman.com/wolf_in_sheeps_clothing), I discuss some of the ways that it is *not* ok to hack user stories. 
 
 
 
