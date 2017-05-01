@@ -24,9 +24,9 @@ To begin, let us quickly remind ourselves of the two formats we are contrasting:
 
 ## The user story follows this format: 
 
-<div class="well"> <strong>As a</strong> [...]
-<strong>I want to</strong> [...]
-<strong>So that</strong> [...].</div>
+<div class="well"> <strong>As a</strong> [type of user]
+<strong>I want to</strong> [goal]
+<strong>So that</strong> [expected benefit].</div>
 
 For example: **As a** teacher, **I want to** compute an average of a pupil's test scores for pupils in my class **so that** it is obvious whether they are making progress in their course. 
 
@@ -34,9 +34,9 @@ There are lots of other formats, which all riff off this theme. See the [Wikiped
 
 ## A job to be done follows this format: 
 
-<div class="well"><strong>When</strong> [...]
-<strong>I want to</strong> [...]
-<strong>So that</strong> [...].</div>
+<div class="well"><strong>When</strong> [situation]
+<strong>I want to</strong> [goal]
+<strong>So that</strong> [expected benefit].</div>
 
 For example: **When** my class finishes a test, **I want to** compute an average of a pupil's test scores for pupils in my class **so that** it is obvious whether they are making progress in their course. 
 
@@ -80,6 +80,8 @@ As you can see, we now have both people and time information included. The benef
 No template is rigid. Always look for the intention captured by a template and hack it until it does what you need. 
 
 You will probably find different ones useful in different scenarios! 
+
+In my next post, I will discuss some of the ways that it is *not* ok to hack user stories. 
 
 
 
