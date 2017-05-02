@@ -5,10 +5,10 @@ title: Hacking User Stories and Jobs to be Done
 tags: [Strategy]
 image: 
   feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
-
+category: Product
 ---
 
-**This post will be useful to you if**: you have used [user stories](https://en.wikipedia.org/wiki/User_story) or [jobs stories / jobs to be done](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27) to communicate a user need to a development team and are interested in ways to broaden your expressiveness in the communication. 
+**This post will be useful to you if**: you have used [user stories](https://en.wikipedia.org/wiki/User_story) or [jobs stories / jobs to be done](https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27) to communicate a user need to a development team and are interested in ways to broaden your expressiveness. 
 
 # Prior knowledge 
 
@@ -22,28 +22,24 @@ Here, we will be paying attention to where each model puts emphasis and encourag
 
 To begin, let us quickly remind ourselves of the two formats we are contrasting: 
 
-## The user story follows this format: 
+The user story follows this format: 
 
 <div class="well"> <strong>As a</strong> [type of user]
 <strong>I want to</strong> [goal]
 <strong>So that</strong> [expected benefit].</div>
 
-For example: **As a** teacher, **I want to** compute an average of a pupil's test scores for pupils in my class **so that** it is obvious whether they are making progress in their course. 
+For example: **As a** teacher, **I want to** compute an average of a pupil's test scores for pupils in my class **so that** it is clear whether they are making progress in their course. 
 
 There are lots of other formats, which all riff off this theme. See the [Wikipedia User-story entry](https://en.wikipedia.org/wiki/User_story#Creating_user_stories).
 
-## A job to be done follows this format: 
+A job to be done follows this format: 
 
 <div class="well"><strong>When</strong> [situation]
 <strong>I want to</strong> [goal]
 <strong>So that</strong> [expected benefit].</div>
 
-For example: **When** my class finishes a test, **I want to** compute an average of a pupil's test scores for pupils in my class **so that** it is obvious whether they are making progress in their course. 
-
-## Other ways to communicate 
-
-There are also other tools which people use to communicate requirements, such as [use cases and traditional requirements](https://www.scrumalliance.org/community/articles/2010/april/new-to-user-stories). I include this here for contrast. 
-
+For example: **When** my class finishes a test, **I want to** compute an average of a pupil's test scores for pupils in my class **so that** it is clear whether they are making progress in their course. 
+ 
 # When to use what
 
 The user story puts emphasis on the *who?*, the job story on the *when?* (or *under which circumstances?* or *how often?*). 
@@ -52,7 +48,7 @@ It can be useful to emphasise the <em>who</em> if for example you are trying to 
 
 > "All of our features cater to the managers, but we haven't built anything for the workers, so there isn't actually any data coming in for the managers to see."
 
-It can also be useful to emphasise the <em>who</em> if you have a complicated permissions system (though permissions matrices may do this better). Another case may be where a workflow which relies on several actors to complete (though maybe you should combine it with some diagrams to ensure conprehension). 
+It can also be useful to emphasise the <em>who</em> if you have a complicated permissions system (though [permissions matrices](http://www.seilevel.com/business-analyst-resources/business-requirements-models-templates/roles-permissions-matrix/) may do this better). Or stressing the <em>who</em> if your product has a workflow which relies on several actors to complete (though maybe you should combine it with some diagrams to ensure comprehension). 
 
 It can be useful to emphasise the <em>when</em> if you are trying to work out the intensity of a pain point (e.g. this thing is something this person has to do every day), or whether the pain point depends on something else. More pros in <a href = "https://jtbd.info/replacing-the-user-story-with-the-job-story-af7cdee10c27">this article</a>.
 
@@ -60,11 +56,15 @@ It can be useful to emphasise the <em>when</em> if you are trying to work out th
 
 This is my slight hack to extract the value out of both of the formats. This takes place at ticket level: 
 
-* Include information on user type, preferably in a way where you can sort by user type e.g. keywords in titles if you have text search, or a label if your project management tool works better with that. 
-* Write stories inspired by jobs to be done to convey the situational context.
+* Include information on user type, preferably in a way that allows you to sort by user type e.g. keywords in titles if you have text search, or a label if your project management tool works better with that. 
+* Write stories in the 'jobs to be done' style to convey the situational context.
 * Add as many other things as is needed to best convey the intention of the ticket, diagrams, permissions matrices... go wild!
 
 ![](http://techtohuman.s3.amazonaws.com/images/WL%202017-04-30%2015%2043%2047.png)
+
+And a worked example...
+
+![](http://techtohuman.s3.amazonaws.com/images/WL%202017-05-02%2019%2012%2026.png)
 
 As you can see, we now have both people and time information included. The benefits of this approach are being to ask yourself questions such as: 
 
