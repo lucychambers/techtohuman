@@ -15,14 +15,11 @@ This page is what I link to when people ask me for a bio and picture.
 
 After embarking on a career as a journalist, she took a few turns which lead to a career at [Open Knowledge](https://okfn.org/) *teaching journalists* how and why to work with data. She was one of the editors of the [Data Journalism Handbook](http://datajournalismhandbook.org/). She later lead the highly successful [School of Data](https://schoolofdata.org/) programme which extended technical training to non-profit organisations. 
 
-Lately, she has focussed on delivery of software projects as a product manager.  Most recently, she has been working in West Africa on health related software. 
+Lately, she has focussed on delivery of software projects.  She worked as a product manager for [eHealth Africa](https://www.ehealthafrica.org/) on health related software rolled out in West Africa. She is currently working as a delivery manager for [mySociety](https://www.mysociety.org/) on the [EveryPolitician](http://everypolitician.org/) project, attempting to get crucial basic information about all legislators worldwide into [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page). 
 
 This experience has given her a wealth of insight into cultural, institutional and technical factors which affect the success of data and technology initiatives. 
 
-Lucy is based in Berlin, Germany. She has worked in over 20 countries. She speaks fluent German and Russian as well working-proficiency French. She is working on Turkish. 
-
 She writes about her learnings at [techtohuman.com](http://techtohuman.com/).
-
 
 ## More details
 
