@@ -23,7 +23,7 @@ She writes about her learnings at [techtohuman.com](http://techtohuman.com/).
 
 ## More details
 
-For more detail, please see[LinkedIn](https://uk.linkedin.com/in/lucyfedia) 
+For more detail, please see [LinkedIn](https://uk.linkedin.com/in/lucyfedia) 
 
 ## Picture 
 
