@@ -12,7 +12,7 @@ Yes, I know that's not a real job title, but it is the closest thing I have foun
 
 <a name="tech_translator">
 
-## Tech translation - my definition
+## Tech translation - a definition
 
 <div class="well">
 
