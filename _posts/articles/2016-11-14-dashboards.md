@@ -4,7 +4,7 @@ permalink: /dashboards
 title: Keep Calm and Make a Dashboard 
 tags: [Product, Jargon, Problems]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 category: Product
 
 ---
@@ -17,7 +17,7 @@ category: Product
 
 In modern usage, the word 'dashboard' commonly refers to a page on a website which shows data on some indicators you care about and lets you know if there is anything you should be concerned about. 
 
-![Dashboard](http://techtohuman.s3.amazonaws.com/images/dashboard.jpg)
+![Dashboard](https://techtohuman.s3.amazonaws.com/images/dashboard.jpg)
 <small> Photo credits <a href="https://www.flickr.com/photos/w00kie/3284079417/in/photolist-61cLoV-cwns6E-pyXYgH-b4ps66-chEjh3-4bvbAV-hAdVL5-f2Gbm2-otgj6C-93qJ3A-p9h5x-eM17us-gn4UQa-k5BmAh-bgcQAv-9XQyzo-crqPqb-nASbnU-6nm1SD-pNu3Yj-nXJgZ9-7NtVzo-gLNNyb-cwnKvJ-qYdgUq-eQ74ei-9vJXAw-nKEaPr-93nx68-6oEVq7-fqV5cH-bVBxXx-hRGPQT-5UgoU2-6iC2kC-7J4i7E-n5LaCw-ebDxSd-dcChVk-5oQwgv-21u5LT-fKGGBT-eeoQMR-oH6yge-fdpnAG-4sAv9r-npnUQb-pvEkfF-6c3Ci6-6YA2z4">François Rejeté</a> (CC-BY)</small>
 
 Don't get me wrong, I **love** a good dashboard. A good dashboard can save hours of time, money and even lives... They achieve this by eliminating complexity, giving those who need to make a decision the ability to cut through huge amounts of data to get the answers to the questions they frequently pose at the glance of an eye. 
@@ -55,7 +55,7 @@ The reason? The grant proposal says 'dashboard' therefore 'dashboards' must be b
 
 Talk about problems that need to be solved with your technology partner and you are much more likely to cut through a lot of misunderstanding and get the product you want. 
 
-![Dashboard](http://techtohuman.s3.amazonaws.com/images/keep-calm-and-make-a-dashboard-2.png)
+![Dashboard](https://techtohuman.s3.amazonaws.com/images/keep-calm-and-make-a-dashboard-2.png)
 <small>Made with dashboard icon by <a href="https://thenounproject.com/term/dashboard/50330/">Buzzyrobot (The Noun Project)</a>
 
 

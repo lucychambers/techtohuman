@@ -4,7 +4,7 @@ permalink: /defining_data
 title: Defining Data 
 tags: [Data 101, Facilitation]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 category: Jargon
 ---
 
@@ -20,7 +20,7 @@ This exercise targets this blanket usage by producing a "typology of data".
 
 The aim of the exercise is to trigger in the participant an awareness of the number of different things we could mean when we say *data* then helps them to categorise the outputs. If all goes well, the participants should come out of the exercise with a kickass vocabulary to be able to talk about data in the future.  
 
-![The Outputs](http://techtohuman.s3.amazonaws.com/images/IMG_3544.JPG)
+![The Outputs](https://techtohuman.s3.amazonaws.com/images/IMG_3544.JPG)
 
 ### Required materials 
 

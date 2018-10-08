@@ -4,7 +4,7 @@ permalink: /headaches
 title: Defining Problems as Headaches 
 tags: [Product, Strategy, Problems]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 category: Product
 
 ---
@@ -16,7 +16,7 @@ A wise man once said:
 > or to [give someone a headache](http://civicpatterns.org/patterns/give-someone-a-headache/) ." 
 <small> Tony Bowden <em>[paraphrase]</em>*</small> 
 
-![Tony](http://techtohuman.s3.amazonaws.com/images/tony_bowden.jpg)
+![Tony](https://techtohuman.s3.amazonaws.com/images/tony_bowden.jpg)
 <small> Tony at the workshop where I originally heard this from him. Sarajevo, Bosnia and Herzegovina. </small> 
 
 <small>* If this little snippet leaves you longing for more, I highly recommend checking out [Civic Patterns](http://civicpatterns.org/), a collection of simple little recipes for designing civic projects based on the collective experience of many of the greatest minds in the business, including Tony. </small> 
@@ -38,5 +38,5 @@ OR
 
 * "Istvan, anti-corruption campaigner, who bears a personal grudge against the government of his country after officials drove his sausage-making business into the ground when he refused to pay a bribe. HEADACHE: A similar thing is about to happen to his son and his nextdoor neighbour."
 
-*Just a little thing I think about sometimes. [Let me know](http://techtohuman.com/contact/) if you have other techniques for forcing people to think about real humans rather than abstract entities!*
+*Just a little thing I think about sometimes. [Let me know](https://techtohuman.com/contact/) if you have other techniques for forcing people to think about real humans rather than abstract entities!*
   

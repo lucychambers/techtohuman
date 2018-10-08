@@ -4,16 +4,16 @@ permalink: /strategy_day_3
 title: Strategy Retreat - Day 3 
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
-<em>This post contains the activities for Day 3 of the strategy retreat. For more information and the links to the activities from other days, please see the [strategy retreat post](http://techtohuman.com/strategy_retreat/).</em> 
+<em>This post contains the activities for Day 3 of the strategy retreat. For more information and the links to the activities from other days, please see the [strategy retreat post](https://techtohuman.com/strategy_retreat/).</em> 
 
 ## Day 3
 
-Before you start - <a href="http://facilitation.aspirationtech.org/index.php?title=Facilitation:Opening_Circle" target="_blank">Opening Circle</a>. <a href="http://techtohuman.com/strategy_day_1">See day 1</a>. 
+Before you start - <a href="http://facilitation.aspirationtech.org/index.php?title=Facilitation:Opening_Circle" target="_blank">Opening Circle</a>. <a href="https://techtohuman.com/strategy_day_1">See day 1</a>. 
 
-1. [Headlines & How tos](http://techtohuman.com/headlines_how_tos). This activity will likely take most of a morning. I suggest starting when people's brains are fresh and trying to complete as soon as possible. This is likely to generate a lot of debate and I suggest separating the debate with a break and then giving people the chance to discuss in a laid-back setting. <a name="output12"> <br>
+1. [Headlines & How tos](https://techtohuman.com/headlines_how_tos). This activity will likely take most of a morning. I suggest starting when people's brains are fresh and trying to complete as soon as possible. This is likely to generate a lot of debate and I suggest separating the debate with a break and then giving people the chance to discuss in a laid-back setting. <a name="output12"> <br>
 At the end of this activity, you will be left with <strong>output 12:</strong> a first draft of the suggested headlines for your strategy, rationales for each and with suggested aligned activities. 
 
 * * *

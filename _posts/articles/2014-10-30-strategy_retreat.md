@@ -4,7 +4,7 @@ permalink: /strategy_retreat
 title: My first strategy retreat - a template 
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
 # My first strategy retreat with School of Data 
@@ -19,7 +19,7 @@ Tip: Out of season villas make excellent and cost-effective locations for retrea
 
 # Preparation: Communicate the arc and how everything will fit together and build on each other
 
-![Narrative arc](http://techtohuman.s3.amazonaws.com/images/narrative_arc.jpg)
+![Narrative arc](https://techtohuman.s3.amazonaws.com/images/narrative_arc.jpg)
 
 Cheers again to Dirk for impressing on me the importance of having a narrative flow. 
 
@@ -27,11 +27,11 @@ Energy and patience is often highest at the beginning of events like this, when 
 
 <strong> The basic flow of the days were: </strong>
 
-* *Day 1: Dreaming big & lookback over the past year* - [(Activities List)](http://techtohuman.com//strategy_day_1)
-* *Day 2: Goals & resources* - what do we need to acheive what we set out to do? -[(Activities List)](http://techtohuman.com//strategy_day_2)
-* *Day 3: Forward looking* - revising the strategy for the year ahead  -  [(Activities List)](http://techtohuman.com//strategy_day_3)
-* *Day 4: Personal development day* - chance for 1:1 chats with line managers and HR team [(Activities List)](http://techtohuman.com/strategy_day_4/)
-* *Day 5: Reality and quality check day* - is what we planned realistic?  How do we improve the quality of our plans? [(Activities List)](http://techtohuman.com/strategy_day_5/)
+* *Day 1: Dreaming big & lookback over the past year* - [(Activities List)](https://techtohuman.com//strategy_day_1)
+* *Day 2: Goals & resources* - what do we need to acheive what we set out to do? -[(Activities List)](https://techtohuman.com//strategy_day_2)
+* *Day 3: Forward looking* - revising the strategy for the year ahead  -  [(Activities List)](https://techtohuman.com//strategy_day_3)
+* *Day 4: Personal development day* - chance for 1:1 chats with line managers and HR team [(Activities List)](https://techtohuman.com/strategy_day_4/)
+* *Day 5: Reality and quality check day* - is what we planned realistic?  How do we improve the quality of our plans? [(Activities List)](https://techtohuman.com/strategy_day_5/)
 
 I will not unpack all of the activities, as some of them will not be useful to anyone else, but below I will link the best of them and list my lessons learned. 
 
@@ -42,5 +42,5 @@ I'd like to share a couple of key takeaways and words of wisdom which I took fro
 * *"Don't allow people to dwell in the negative space"*. This is particularly relevant when running retrospectives. People may need an opportunity to bitch sometimes to get something off their chest - but retrospectives are not blame games. It is useful to frame discussions in a way that gives them a mechanism to be constructive "what can I change?", "what can I not change?". Ultimately - you want people realise that they can be part of the solution- it makes everyone feel more positive and shares the workload!
 * *Get people outside of their own space / Have an ego parking lot.* Related to the above - people have a tendency to dwell on their particular pet thoughts. It was important to frame everything as: "how will this contribute to making the programme better?". Keep that thought front and centre.  
 * *"At what point in the agenda are you going to talk about users?"* - make sure you build in regular reality checks that involve thinking about how real people would use your stuff ... 
-* *It's a facilitator's job to keep things positive.* I initiatially found questions such as: "what were the moments in the last year made you proudest?" (see [Day 1](http://techtohuman.com//strategy_day_1) for examples of where we used these) and "what do you appreciate about being part of this team?" a bit sacrine, but it is surprising how well they set the tone for what could be some hard retrospective questions. 
+* *It's a facilitator's job to keep things positive.* I initiatially found questions such as: "what were the moments in the last year made you proudest?" (see [Day 1](https://techtohuman.com//strategy_day_1) for examples of where we used these) and "what do you appreciate about being part of this team?" a bit sacrine, but it is surprising how well they set the tone for what could be some hard retrospective questions. 
 

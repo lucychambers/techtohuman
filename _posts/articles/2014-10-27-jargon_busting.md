@@ -4,7 +4,7 @@ permalink: /jargon_busting
 title: Jargon Busting in "Ten Hundred Words"
 tags: [Data 101, Jargon, Facilitation]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 category: Jargon
 
 ---

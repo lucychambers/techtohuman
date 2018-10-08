@@ -4,7 +4,7 @@ permalink: /version_controlled_thinking
 title: Version Controlled Thinking 
 tags: [Version Control]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
 All of my posts are version controlled, meaning that you can see past edits, who they were changed by and when. E.g. [See the history of this page](https://github.com/lucychambers/lucychambers.github.io/blob/master/musings.md). 
@@ -13,7 +13,7 @@ All of my posts are version controlled, meaning that you can see past edits, who
 
 I hear you ask... 
 
-![Version-Controlled-Thinking](http://techtohuman.s3.amazonaws.com/images/vct_3.jpeg)
+![Version-Controlled-Thinking](https://techtohuman.s3.amazonaws.com/images/vct_3.jpeg)
 
 ### Reason 1: As an accountability mechanism. I have opinions and I update them in light of new evidence. 
 

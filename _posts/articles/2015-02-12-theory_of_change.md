@@ -4,7 +4,7 @@ permalink: /theory_of_change/
 title: Utopian and Dystopian Theories of Change - A Template 
 tags: [Strategy, Responsible Data, Theory of Change]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
 <em> <strong> Widely-held Opinion (to which I subscribe): </strong> There is a huge amount of potential power to be unlocked in non-profits using technology in their quest for positive change in the world. </em> 
@@ -61,9 +61,9 @@ I hacked the [DIY-Toolkit template](http://diytoolkit.org/tools/theory-of-change
 
 ## Here's the template I came up with in 5 minutes: 
 
-![Theory of Change](http://techtohuman.s3.amazonaws.com/images/tocs.png)
+![Theory of Change](https://techtohuman.s3.amazonaws.com/images/tocs.png)
 
-Poor eyesight? [Zoom original image](http://techtohuman.s3.amazonaws.com/images/tocs.png)
+Poor eyesight? [Zoom original image](https://techtohuman.s3.amazonaws.com/images/tocs.png)
 <div>
 <small>(Yes, this is optimised for prettiness rather than practicality. Remix at will!)</small> 
 </div>

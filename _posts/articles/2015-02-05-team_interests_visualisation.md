@@ -4,7 +4,7 @@ permalink: /team_interests_visualisation/
 title: Team Interests Visualisation 
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
 This series of exercises serves as a mechanism for surfacing interests of the team within the context of planned work. 
@@ -55,9 +55,9 @@ Up until the retreat, the notion of 'mucking in' was implicit. People were <em>s
 
 This activity is led with an individual team member (let's call her 'Flick'), the team lead and a HR representative if possible. You'll need a nice private room with a big wall to stick things on. Depending on amount of discussion time needed - you should allow between 40-60 minutes per person. 
 
-1. Take the agreed ['headlines'](http://techtohuman.com/strategy_day_3/#output12) from day 3 and write each of them on a large piece of A4 paper. Affix these to a wall with plenty of space around them. <em>Note: if you know you are going to need any specialist skills or skill levels to deliver on any of the headlines  - it may be good to make that clear visually, by adding a postit note next to the headline at this stage so that the team member can think about whether they have or could acquire the necessary skills on a reasonable timeline to do the job. E.g. "Revamp website - Technical Project Management Skills, Web development (Django) skills." </em> 
+1. Take the agreed ['headlines'](https://techtohuman.com/strategy_day_3/#output12) from day 3 and write each of them on a large piece of A4 paper. Affix these to a wall with plenty of space around them. <em>Note: if you know you are going to need any specialist skills or skill levels to deliver on any of the headlines  - it may be good to make that clear visually, by adding a postit note next to the headline at this stage so that the team member can think about whether they have or could acquire the necessary skills on a reasonable timeline to do the job. E.g. "Revamp website - Technical Project Management Skills, Web development (Django) skills." </em> 
 
-![HR_Exercise](http://techtohuman.s3.amazonaws.com/images/hr_exercise_1.png)
+![HR_Exercise](https://techtohuman.s3.amazonaws.com/images/hr_exercise_1.png)
 
 <ol start="2">
 	<li> Give Flick a printed copy of her current role description to refresh her memory (if you did not do this when giving them their personal development plans).</li>
@@ -67,7 +67,7 @@ This activity is led with an individual team member (let's call her 'Flick'), th
 	<li> Step back and take a look - do the parts together look like they would make a logical and feasible job description? Is there anything which is too disparate? Are the number of postits sane? </li> 
 </ol>
 
-![HR_Exercise_2](http://techtohuman.s3.amazonaws.com/images/hr_exercise_2.png)
+![HR_Exercise_2](https://techtohuman.s3.amazonaws.com/images/hr_exercise_2.png)
 
 <ol start="7">
 	<li> End the session by giving any feedback needed to Flick, making sure she knows she can do the same to you. Wrap with her making it clear that this is not yet a decision about the roles; the activity is simply an expression of interest to help you understand how the roles might fit together. If there is any substantial role change, you will need to follow the company hiring process. </li> 
@@ -89,7 +89,7 @@ I understand that this might not always be the case. And, in the case that it is
 
 I've done a sample of part of the visualisation - so that you can see what type of patterns emerged when we tried (not real data!) 
 
-![HR_Exercise_3](http://techtohuman.s3.amazonaws.com/images/hr_exercise_3.png)
+![HR_Exercise_3](https://techtohuman.s3.amazonaws.com/images/hr_exercise_3.png)
 
 
 ### Conclusions 

@@ -4,7 +4,7 @@ permalink: /jargon_busting_non_verbal
 title: Jargon Busting - non-verbal communication 
 tags: [Jargon, Facilitation, Non-verbal Communication]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 category: Jargon
 
 ---

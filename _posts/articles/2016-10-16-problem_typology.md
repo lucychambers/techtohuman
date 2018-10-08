@@ -4,7 +4,7 @@ permalink: /problem_typology
 title: "Problems: A simple typology" 
 tags: [Product, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 category: Product
 
 ---
@@ -12,7 +12,7 @@ category: Product
 > "We must not fixate on what this new arsenal of digital technologies allows us to do without first inquiring what is worth doing."
 -- <small> Evgeny Morozov, To Save Everything, Click Here: The Folly of Technological Solutionism </small>
 
-*In my last [post](http://techtohuman.com/5_in_5_product_management), I talked about how a product manager's job is to distill problems.*
+*In my last [post](https://techtohuman.com/5_in_5_product_management), I talked about how a product manager's job is to distill problems.*
 
 *This post features some categories into which I fit problems. "Why categorise?", you ask. Well, because our framing of the problem has a great impact on what type of solutions we devise and whether it is worth even trying to tackle them with technology in the first place.*
 
@@ -42,7 +42,7 @@ Unknown problems occur either:
 
 ***
 
-![Warning](http://techtohuman.s3.amazonaws.com/images/warning.jpg)
+![Warning](https://techtohuman.s3.amazonaws.com/images/warning.jpg)
 <small><a href="https://www.flickr.com/photos/foilman/7686642958/in/photolist-cHf49S-cfLn1w-wNkJc-7K5v7N-oxVEd1-6wR2NC-bCB2Gb-aqt5xq-48Rrx-ntKEZp-6q9mm9-6QbAA6-oxVE6Y-dDRp48-8zpb6f-8zoJSE-8obFxx-k9Wyq8-8LGd8j-8xosEJ-bR4os2-9Mm99D-cmPYwN-8znRqG-7HQNWQ-8zka5P-eHnCV-43wo6N-ZUBy-3hKsF5-4GpvPc-64vV5D-8zoHPo-7okV6f-AePPpF-54qE4f-e43gi8-7xYc26-rwmb3-8P31JP-9h3R7n-6Dv1yK-fmhTK-8xCzVh-6msZix-bCEf7N-5cXRhG-6XMY6q-rwmC5-26KAW">Photo credits: m.p.3. (Flickr). CC-BY-NC-ND</a></small>
 
 

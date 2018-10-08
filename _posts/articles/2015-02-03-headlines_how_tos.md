@@ -4,10 +4,10 @@ permalink: /headlines_how_tos
 title: Headlines & How tos 
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 ---
 
-In the "[What makes a good strategy?](http://techtohuman.com/good_strategy/)" post, I explained the [structure](http://techtohuman.com/good_strategy/#structure) which we used for the School of Data strategy document. The basic structure was for each goal to have an aligned rationale and methods which would be used to attain it. This exercise is a way of producing or revising a strategy document, which pops out nicely in that structure - so it could be handy to revise. 
+In the "[What makes a good strategy?](https://techtohuman.com/good_strategy/)" post, I explained the [structure](https://techtohuman.com/good_strategy/#structure) which we used for the School of Data strategy document. The basic structure was for each goal to have an aligned rationale and methods which would be used to attain it. This exercise is a way of producing or revising a strategy document, which pops out nicely in that structure - so it could be handy to revise. 
 
 This is an exercise to: 
 
@@ -17,7 +17,7 @@ This is an exercise to:
 
 ## Background material & preparation 
 
-1. From Days 1 and 2 - you should now have: outputs <strong> <a href="http://techtohuman.com/strategy_day_1/#output4a">4a</a>, <a href="http://techtohuman.com/strategy_day_1/#output4b">4b</a></strong> and <strong><a href="http://techtohuman.com/strategy_day_1/#output6">6</a> </strong>. Together, these outputs make up a list of items in your strategy that you should revise from the previous time you wrote it (or need to think about if this is your first time writing one). It may be helpful to have a summary written up of them by this point. 
+1. From Days 1 and 2 - you should now have: outputs <strong> <a href="https://techtohuman.com/strategy_day_1/#output4a">4a</a>, <a href="https://techtohuman.com/strategy_day_1/#output4b">4b</a></strong> and <strong><a href="https://techtohuman.com/strategy_day_1/#output6">6</a> </strong>. Together, these outputs make up a list of items in your strategy that you should revise from the previous time you wrote it (or need to think about if this is your first time writing one). It may be helpful to have a summary written up of them by this point. 
 2. Write out the headline goals from your previous strategy - one per piece of A4 paper (make sure you have another A4 colour forlater on in the exercise). 
 
 ## Method

@@ -4,17 +4,17 @@ permalink: /strategy_day_5
 title: Strategy Retreat - Day 5 
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---
 
-<em>This post contains the activities for Day 5 of the strategy retreat. For more information and the links to the activities from other days, please see the [strategy retreat post](http://techtohuman.com/strategy_retreat/).</em> 
+<em>This post contains the activities for Day 5 of the strategy retreat. For more information and the links to the activities from other days, please see the [strategy retreat post](https://techtohuman.com/strategy_retreat/).</em> 
 
 ## Day 5
 
-Before you start - <a href="http://facilitation.aspirationtech.org/index.php?title=Facilitation:Opening_Circle" target="_blank">Opening Circle</a>. <a href="http://techtohuman.com/strategy_day_1">See day 1</a>. 
+Before you start - <a href="http://facilitation.aspirationtech.org/index.php?title=Facilitation:Opening_Circle" target="_blank">Opening Circle</a>. <a href="https://techtohuman.com/strategy_day_1">See day 1</a>. 
 
 <ol> 
-	<li>Closure - "Offline/Online".&#42; <em>To tie up the strategy retreat nicely; we want to make sure that it is clear to all when/how/if the issues arising will be handled</em> <p>This is a very quick, visual exercise to make sure that things which were captured in the <a href="http://techtohuman.com/strategy_day_1/#output1">agenda hack</a> earlier in the week have either been tackled, scheduled for resolution or accordingly parked. </p>
+	<li>Closure - "Offline/Online".&#42; <em>To tie up the strategy retreat nicely; we want to make sure that it is clear to all when/how/if the issues arising will be handled</em> <p>This is a very quick, visual exercise to make sure that things which were captured in the <a href="https://techtohuman.com/strategy_day_1/#output1">agenda hack</a> earlier in the week have either been tackled, scheduled for resolution or accordingly parked. </p>
 	<p><strong>Instructions:</strong> Take four large bits of paper and title them: 
 		<ol type="a">
 			<li> Done - <em>Make sure that there is no doubt in the team that they are complete and that there are no outstanding questions</em> </li> 
@@ -47,7 +47,7 @@ BREAK
 
 </oL>
 <p>
-<img src="http://techtohuman.s3.amazonaws.com/images/roadmap_1.PNG" alt="Roadmap 1">
+<img src="https://techtohuman.s3.amazonaws.com/images/roadmap_1.PNG" alt="Roadmap 1">
 </p>
 <ol type="a" start="3">
 	<li><p>Each person now takes some time to write out all of the milestones which fit into the time period specified. For more on what qualifies as a milestone, read on.</p></li>
@@ -74,7 +74,7 @@ If what you are writing is a neccessary activity to support a milestone, but not
 </div> 
 </p>
 <p>
-<img src="http://techtohuman.s3.amazonaws.com/images/roadmap_2.PNG" alt="Roadmap 2">
+<img src="https://techtohuman.s3.amazonaws.com/images/roadmap_2.PNG" alt="Roadmap 2">
 </p>
 
 <ol type="a" start="4">

@@ -4,7 +4,7 @@ permalink: /user_stories_jtbd
 title: Hacking User Stories and Jobs to be Done    
 tags: [Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 category: Product
 ---
 
@@ -60,11 +60,11 @@ This is my slight hack to extract the value out of both of the formats. This tak
 * Write stories in the 'jobs to be done' style to convey the situational context.
 * Add as many other things as is needed to best convey the intention of the ticket, diagrams, permissions matrices... go wild!
 
-![](http://techtohuman.s3.amazonaws.com/images/WL%202017-04-30%2015%2043%2047.png)
+![](https://techtohuman.s3.amazonaws.com/images/WL%202017-04-30%2015%2043%2047.png)
 
 And a worked example...
 
-![](http://techtohuman.s3.amazonaws.com/images/WL%202017-05-02%2019%2012%2026.png)
+![](https://techtohuman.s3.amazonaws.com/images/WL%202017-05-02%2019%2012%2026.png)
 
 As you can see, we now have both people and time information included. The benefits of this approach are being to ask yourself questions such as: 
 
@@ -74,14 +74,14 @@ As you can see, we now have both people and time information included. The benef
 
 ## Summary 
 
-![](http://techtohuman.s3.amazonaws.com/images/Productivity-methods.jpg)
+![](https://techtohuman.s3.amazonaws.com/images/Productivity-methods.jpg)
 <small> Image credits: <a href="https://blog.todoist.com/2015/11/30/ultimate-guide-personal-productivity-methods/">todoist</a>.
 
 No template is rigid. Always look for the intention captured by a template and hack it until it does what you need. 
 
 You will probably find different ones useful in different scenarios! 
 
-In my [next post: Wolf in Sheep's Clothing](http://techtohuman.com/wolf_in_sheeps_clothing), I discuss some of the ways that it is *not* ok to hack user stories. 
+In my [next post: Wolf in Sheep's Clothing](https://techtohuman.com/wolf_in_sheeps_clothing), I discuss some of the ways that it is *not* ok to hack user stories. 
 
 
 

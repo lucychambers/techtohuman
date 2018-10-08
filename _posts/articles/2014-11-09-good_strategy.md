@@ -4,7 +4,7 @@ permalink: /good_strategy
 title: Writing User Stories for Your Strategy
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 
 ---
 

@@ -3,7 +3,7 @@ layout: page
 permalink: /about/index.html
 title: Welcome to Tech to Human
 image:
-  feature_url: http://techtohuman.s3.amazonaws.com/images/eyes_transfer.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/eyes_transfer.jpg
 ---
 
 <blockquote>Hi, I'm Lucy and I'm a <a href="#tech_translator">tech translator</a>.</blockquote> 
@@ -30,14 +30,14 @@ Two reasons:
 
 ### There are three main things you can do at Tech to Human: 
 
-* *Discover* what is [on my mind](http://techtohuman.com/musings/). ([See what I write about](http://techtohuman.com/musings/#topics)) 
+* *Discover* what is [on my mind](https://techtohuman.com/musings/). ([See what I write about](https://techtohuman.com/musings/#topics)) 
 * *Collaborate!* I work with organisations who are exploring new ways that technology can help them in their work. [(Find out more)](/work_with_us)
 * *Connect* via [Email](mailto:lucy@fedia.net) / [Twitter](https://twitter.com/lucyfedia) / [LinkedIn](http://uk.linkedin.com/in/lucyfedia). 
 
 
 ## About Me
 
-See [bio](http://techtohuman.com/bio/).  
+See [bio](https://techtohuman.com/bio/).  
 
 
 

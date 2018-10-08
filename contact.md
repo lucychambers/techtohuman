@@ -3,7 +3,7 @@ layout: page
 permalink: /contact/index.html
 title: Contact
 image:
-  feature_url: http://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/openingpage_montage.jpeg
 ---
 
 # Contact 

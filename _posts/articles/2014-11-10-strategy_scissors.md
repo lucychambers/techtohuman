@@ -4,7 +4,7 @@ permalink: /strategy_scissors
 title: Exercise - Strategy & Scissors 
 tags: [Facilitation, Strategy]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 
 ---
 
@@ -70,6 +70,6 @@ You'll have a nice idea of which parts of the strategy your team felt you excell
 
 Here's one we made earlier: 
 
-![Our strategy hack](http://techtohuman.s3.amazonaws.com/images/DSCF3661.JPG)
+![Our strategy hack](https://techtohuman.s3.amazonaws.com/images/DSCF3661.JPG)
 
 

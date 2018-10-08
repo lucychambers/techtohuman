@@ -3,7 +3,7 @@ layout: post
 permalink: /wolf_in_sheeps_clothing
 title: Wolf in Sheep's Clothing - Bad User Stories  
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 category: Product
 ---
 
@@ -17,7 +17,7 @@ This post describes a handful of examples of how user stories can be mangled, tu
 
 - Said no-one ever. 
 
-Actually, someone did say this to me once, but <a href="http://techtohuman.com/dashboards">I have opinions on conversations starting like this</a> and they don't end well. If a user story does not give insight into a real-world problem and instead prescribes a solution, there isn't really a point to using a user story. 
+Actually, someone did say this to me once, but <a href="https://techtohuman.com/dashboards">I have opinions on conversations starting like this</a> and they don't end well. If a user story does not give insight into a real-world problem and instead prescribes a solution, there isn't really a point to using a user story. 
 
 ## Ways to fix it 
 

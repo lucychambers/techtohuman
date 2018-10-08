@@ -3,7 +3,7 @@ layout: post
 permalink: /data_expedition
 title: Data Expeditions - new things tried
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 category: Facilitation
 ---
 
@@ -32,7 +32,7 @@ In data expeditions we encourage people to pair on problems, ask questions and l
 
 A great coaching tip I learned is [OpenTechSchool](http://www.opentechschool.org/)'s "Lava Keyboard" analogy, which we actively promoted this weekend:
 
-![](http://techtohuman.s3.amazonaws.com/images/lava_keyboard.png)
+![](https://techtohuman.s3.amazonaws.com/images/lava_keyboard.png)
 <small><em>From <a href="https://opentechschool.github.io/slides/presentations/coaching/">OpenTechSchool's coaching guide</a> (CC-BY-SA)</em></small>
 
 ***

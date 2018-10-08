@@ -3,22 +3,22 @@ layout: page
 permalink: /musings/index.html
 title: Musings
 image:
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg 
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg 
   
 ---
 
 At Tech to Human, we focus on:
 
 <ul>
-	<li><strong>Product Management</strong> (<a href="http://techtohuman.com/tags.html#Product">Take me to product posts</a>)</li>
-	<li><strong> Talking about technology in plain language and other ways to make it more accessible</strong> (Jump to: <a href="http://techtohuman.com/tags.html#Jargon">Jargon Busting Posts</a>, <a href="http://techtohuman.com/tags.html#Data 101">Data Posts</a>, <a href="http://techtohuman.com/tags.html#Facilitation">Facilitation Posts</a>)</li>
-	<li><strong>NGO tech</strong> (<a href="http://techtohuman.com/tags.html#Strategy">Take me to NGO Tech Posts</a>)</li>
+	<li><strong>Product Management</strong> (<a href="https://techtohuman.com/tags.html#Product">Take me to product posts</a>)</li>
+	<li><strong> Talking about technology in plain language and other ways to make it more accessible</strong> (Jump to: <a href="https://techtohuman.com/tags.html#Jargon">Jargon Busting Posts</a>, <a href="https://techtohuman.com/tags.html#Data 101">Data Posts</a>, <a href="https://techtohuman.com/tags.html#Facilitation">Facilitation Posts</a>)</li>
+	<li><strong>NGO tech</strong> (<a href="https://techtohuman.com/tags.html#Strategy">Take me to NGO Tech Posts</a>)</li>
 </ul>	
 
 <p> 
 <div class="well">
 
-All posts are version controlled, meaning that you can see past edits, who they were changed by and when. For more information, see the <a href="http://techtohuman.com/version_controlled_thinking/">related blog post</a>.  
+All posts are version controlled, meaning that you can see past edits, who they were changed by and when. For more information, see the <a href="https://techtohuman.com/version_controlled_thinking/">related blog post</a>.  
 
 </div> 
 </p>

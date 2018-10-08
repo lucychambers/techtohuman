@@ -4,7 +4,7 @@ permalink: /5_in_5_product_management
 title: How I explain my job - Product Management 
 tags: [Product, Strategy, Problems]
 image: 
-  feature_url: http://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
+  feature_url: https://techtohuman.s3.amazonaws.com/images/feature_maze.jpg
 category: Product
 
 ---
@@ -25,11 +25,11 @@ What I learned about:
 
 ## My name is Lucy Chambers. I have problems.  
 
-![What I used to think](http://techtohuman.s3.amazonaws.com/images/wiutt.jpeg)
+![What I used to think](https://techtohuman.s3.amazonaws.com/images/wiutt.jpeg)
 
 > People are employed in order to come up with solutions. The success of my career will depend on the ingenuity of the solutions I create. 
 
-![What I think now](http://techtohuman.s3.amazonaws.com/images/witn.jpeg)
+![What I think now](https://techtohuman.s3.amazonaws.com/images/witn.jpeg)
 
 > 'Problem definer' is a role in itself. The most ingenious solution-creators in the world will fall flat on their face if they fail to correctly diagnose the problem that they are solving. 
 
@@ -59,7 +59,7 @@ In a highly oversimplified form, the difference between the two is as follows:
 
 ## How I like to think of my job: 
 
-![ears](http://techtohuman.s3.amazonaws.com/images/product_manager.png)
+![ears](https://techtohuman.s3.amazonaws.com/images/product_manager.png)
 
 <a name="product">
 
