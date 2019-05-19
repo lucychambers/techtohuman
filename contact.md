@@ -3,7 +3,7 @@ layout: page
 permalink: /contact/index.html
 title: Contact
 image:
-  feature_url: https://techtohuman.s3.amazonaws.com/images/BAS19_Chambers%26Prakash.JPG
+  feature_url: https://techtohuman.s3.amazonaws.com/images/BAS19_Chambers_Prakash.JPG
 ---
 
 # Contact 
