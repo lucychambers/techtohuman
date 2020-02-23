@@ -27,7 +27,7 @@ It is hard to show how thoughts and opinions change over time. I also think it i
 
 I there is a lot of outdated junk on the internet and that makes some technical topics even harder to navigate. I believe that if we do not clear up after ourselves, then this happens: 
 
-![Wrong on the Internet](http://imgs.xkcd.com/comics/duty_calls.png)
+![Wrong on the Internet](https://imgs.xkcd.com/comics/duty_calls.png)
 
 <small> Duty Calls by XKCD CC-BY-NC. </small> 
 
