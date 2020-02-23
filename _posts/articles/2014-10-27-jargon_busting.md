@@ -25,7 +25,7 @@ The nerds among you will likely be familiar with the online comic [XKCD](http://
 
 Some of you will also be familiar with the "Up-Goer-Five comic" where Randall (the author) attempts to label a rocket, in all of its complexity, using only the top "ten hundred" aka "one thousand" words. The result is very amusing: 
 
-![Up-Goer Five](http://imgs.xkcd.com/comics/up_goer_five.png)
+![Up-Goer Five](https://imgs.xkcd.com/comics/up_goer_five.png)
 <small> Up Goer Five by <a href="http://xkcd.com/1133/">XKCD</a> - CC-BY-NC </small>  
 
 ## The exercise: 
